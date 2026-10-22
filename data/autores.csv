@@ -1,0 +1,1414 @@
+proyecto_id,congresista_id,nombre,partido,corporacion,departamento
+16034,14749.0,Juan Carlos Vargas Soler,Aprocasur - Asociación de Productores de Cacao,Cámara de Representantes,Bolívar
+16024,8815.0,Alexánder Harley Bermúdez Lasso,Liberal Colombiano,Cámara de Representantes,Guaviare
+16024,14618.0,David Alejandro Toro Ramírez,Pacto Histórico Coalición,Cámara de Representantes,Antioquia
+16024,14624.0,María del Mar Pizarro García,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+16024,14673.0,Juan Loreto Gómez Soto,Conservador Colombiano,Cámara de Representantes,La Guajira
+16024,14745.0,Jorge Hernán Bastidas Rosero,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+16024,14839.0,Luz Verónica Estrada Holguín,Pacto Histórico Coalición,Cámara de Representantes,Antioquia
+16024,14845.0,Jaime Arturo Santamaría Acosta,Coalición Pacto Histórico - Frente Amplio,Cámara de Representantes,Atlántico
+16024,14847.0,Bleidy Del Carmen Pérez Ballestas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+16024,14861.0,Yamit Noé Hurtado Neira,Alianza Verde,Cámara de Representantes,Boyacá
+16024,14881.0,Francy Natalia Moreno Puin,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+16024,14891.0,José Felipe Hernández Polo,Pacto Histórico Coalición,Cámara de Representantes,Magdalena
+16024,14898.0,Rosita Rosaurina Guevara Rosero,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+16024,14917.0,Ana Leidy Erazo Ruiz,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+16024,14918.0,Jorge Augusto Palacio Garzón,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+16024,14920.0,Carlos Eduardo Arizabaleta Corral,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+16024,14921.0,Paola Andrea Quiñones D´Haro,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+16024,14913.0,Diego Fran Ariza Pérez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Santander
+16024,14931.0,David Pinilla Calero,PL - Colombia Renaciente Coalición,Cámara de Representantes,Valle del Cauca
+15948,14681.0,Eduard Alexis Triana Rincón,Centro Democrático,Cámara de Representantes,Boyacá
+15948,14684.0,Juan Felipe Corzo Alvarez,Centro Democrático,Cámara de Representantes,Norte de Santander
+15948,14832.0,Ana Ligia Mora Martínez,Centro Democrático,Cámara de Representantes,Antioquia
+15948,14868.0,Arledy Alvarado Patiño,Centro Democrático,Cámara de Representantes,Casanare
+15916,13462.0,Esteban Quintero Cardona,Centro Democrático,Senado de la República,Antioquia
+15916,13464.0,Hernán Darío Cadavid Márquez,Centro Democrático,Senado de la República,Antioquia
+15916,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Senado de la República,Antioquia
+15916,14813.0,Rafael Nieto Loaiza,Centro Democrático,Senado de la República,Distrito Capital
+15916,14816.0,María Clara Posada Caicedo,Centro Democrático,Senado de la República,Antioquia
+15884,14815.0,Julia Correa Nuttin,Centro Democrático,Senado de la República,Antioquia
+15884,14817.0,Juan Fernando Caicedo Callejas,Centro Democrático,Senado de la República,Tolima
+15867,13462.0,Esteban Quintero Cardona,Centro Democrático,Senado de la República,Antioquia
+15867,14814.0,Claudia Margarita Zuleta Murgas,Centro Democrático,Senado de la República,Cesar
+15867,14815.0,Julia Correa Nuttin,Centro Democrático,Senado de la República,Antioquia
+15858,14892.0,Milton Virgilio Carreño Sánchez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Meta
+15850,2533.0,Wilson Neber Arias Castillo,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15850,7635.0,José Jaime Uscátegui Pastrana,Centro Democrático,Cámara de Representantes,Distrito Capital
+15850,13215.0,Alfredo Mondragón Garzon,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+15850,13660.0,Aída Yolanda Avella Esquivel,Pacto Histórico Coalición,Senado de la República,Boyacá
+15850,14644.0,Martha Isabel Peralta	Epieyu,MAIS - Movimiento Alternativo Indígena y Social,Senado de la República,La Guajira
+15850,14646.0,Isabel Cristina Zuleta Lopez,Pacto Histórico Coalición,Senado de la República,Antioquia
+15850,14718.0,Andrea Padilla Villarraga,Alianza por Colombia,Senado de la República,Distrito Capital
+15850,14657.0,Jonathan Ferney Jota Pe Pulido Hernández,Alianza por Colombia,Senado de la República,Santander
+15850,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+15850,14705.0,Duvalier Sánchez Arango,Alianza por Colombia,Senado de la República,Valle del Cauca
+15850,14714.0,Jennifer Dalley Pedraza Sandoval,Ahora Colombia,Senado de la República,Distrito Capital
+15850,14719.0,Gustavo Adolfo Moreno Hurtado,Alianza por Colombia,Senado de la República,Santander
+15850,14737.0,Wilder Iberson Escobar Ortiz,Alianza por Colombia,Senado de la República,Caldas
+15850,14768.0,Jorge Rodrigo Tovar Vélez,Pa Vida - Asociacion Paz Es Vida,Cámara de Representantes,Cesar
+15850,14790.0,Luis Carlos Rúa Sánchez,Alianza por Colombia,Senado de la República,Risaralda
+15850,14795.0,José Nicolás Gómez Medina,Coalición Cambio Radical - Alma,Senado de la República,Cundinamarca
+15850,14804.0,Sandra Claudia Chindoy Jamioy,Pacto Histórico Coalición,Senado de la República,Putumayo
+15850,14806.0,Kamelia Edith Zuluaga Navarro,Pacto Histórico Coalición,Senado de la República,Córdoba
+15850,14809.0,Deisy Johana Osorio Márques,Pacto Histórico Coalición,Senado de la República,La Guajira
+15850,14823.0,Gersson 'Señor Biter' Vargas Valdeleon,Liberal Colombiano,Senado de la República,Boyacá
+15850,14825.0,Santiago Montoya Montoya,Liberal Colombiano,Senado de la República,Antioquia
+15850,14848.0,Daniel Felipe Briceño Montes,Centro Democrático,Cámara de Representantes,Distrito Capital
+15850,14869.0,Diego Fernando García Alfonso,Coalición Alianza por Casanare,Cámara de Representantes,Casanare
+15850,13464.0,Hernán Darío Cadavid Márquez,Centro Democrático,Senado de la República,Antioquia
+15751,14774.0,María Angélica Guerra López,Centro Democrático,Senado de la República,Sucre
+15730,2459.0,Antonio José Correa Jiménez,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Bolívar
+15677,14656.0,Sara Jimena Castellanos Rodríguez,Salvación Nacional,Senado de la República,Distrito Capital
+15677,14852.0,Carol Stefanny Borda Acevedo,Salvación Nacional,Cámara de Representantes,Distrito Capital
+15637,2533.0,Wilson Neber Arias Castillo,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15637,12409.0,Renzo Alexánder García Parra,Pacto Verde por el Tolima,Cámara de Representantes,Tolima
+15637,12555.0,David Ricardo Racero Mayorca,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+15637,14649.0,Yuly Esmeralda Hernández Silva,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+15637,14618.0,David Alejandro Toro Ramírez,Pacto Histórico Coalición,Cámara de Representantes,Antioquia
+15637,14625.0,Heráclito Landinez Suárez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15637,14634.0,Erick Adrian Velasco Burbano,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+15637,14745.0,Jorge Hernán Bastidas Rosero,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+15637,14771.0,Ferney Silva Idrobo,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15637,14808.0,Cristian Kevin Gómez Paz,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15637,14809.0,Deisy Johana Osorio Márques,Pacto Histórico Coalición,Senado de la República,La Guajira
+15637,14853.0,Laura Daniela 'Lalis' Beltrán Palomares,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15637,14854.0,Daniel Mauricio Monroy Hernández,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15637,14860.0,Amaury Julio Pérez,Pacto Histórico Coalición,Cámara de Representantes,Bolívar
+15637,14884.0,Yeisson Gerardo Sua Cajamarca Zapata,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+15637,14887.0,Lourdes Paola Mateus Serrano,Pacto Histórico Coalición,Cámara de Representantes,Huila
+15637,14917.0,Ana Leidy Erazo Ruiz,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+15637,14925.0,Yolanda Silva Romero,Pacto Histórico Coalición,Cámara de Representantes,Santander
+15637,14930.0,Marco Emilio Jr. Hincapié Ramírez,Pacto Verde por el Tolima,Cámara de Representantes,Tolima
+15637,14950.0,Martín Alonso Caicedo Carabalí,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15607,14929.0,Guillermo Ignacio Alvira Acosta,Conservador Colombiano,Cámara de Representantes,Tolima
+15600,282.0,Christian Munir Garcés Aljure,Centro Democrático,Senado de la República,Valle del Cauca
+15600,7319.0,Andrés Eduardo Forero Molina,Centro Democrático,Senado de la República,Distrito Capital
+15600,13049.0,Enrique 'Kike' Cabrales Baquero,Centro Democrático,Senado de la República,Bolívar
+15600,13462.0,Esteban Quintero Cardona,Centro Democrático,Senado de la República,Antioquia
+15600,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Senado de la República,Antioquia
+15600,14774.0,María Angélica Guerra López,Centro Democrático,Senado de la República,Sucre
+15600,14813.0,Rafael Nieto Loaiza,Centro Democrático,Senado de la República,Distrito Capital
+15600,14814.0,Claudia Margarita Zuleta Murgas,Centro Democrático,Senado de la República,Cesar
+15600,14817.0,Juan Fernando Caicedo Callejas,Centro Democrático,Senado de la República,Tolima
+15600,14818.0,Zandra María Bernal Rincón,Centro Democrático,Senado de la República,Boyacá
+15595,13464.0,Hernán Darío Cadavid Márquez,Centro Democrático,Senado de la República,Antioquia
+15595,14832.0,Ana Ligia Mora Martínez,Centro Democrático,Cámara de Representantes,Antioquia
+15595,14893.0,Daruin Castellanos Romero,Centro Democrático,Cámara de Representantes,Meta
+15595,809.0,Oscar Darío Pérez Pineda,Centro Democrático,Cámara de Representantes,Antioquia
+15576,13049.0,Enrique 'Kike' Cabrales Baquero,Centro Democrático,Senado de la República,Bolívar
+15576,13462.0,Esteban Quintero Cardona,Centro Democrático,Senado de la República,Antioquia
+15576,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Senado de la República,Antioquia
+15576,14774.0,María Angélica Guerra López,Centro Democrático,Senado de la República,Sucre
+15576,14813.0,Rafael Nieto Loaiza,Centro Democrático,Senado de la República,Distrito Capital
+15576,14814.0,Claudia Margarita Zuleta Murgas,Centro Democrático,Senado de la República,Cesar
+15576,14815.0,Julia Correa Nuttin,Centro Democrático,Senado de la República,Antioquia
+15576,14817.0,Juan Fernando Caicedo Callejas,Centro Democrático,Senado de la República,Tolima
+15576,14818.0,Zandra María Bernal Rincón,Centro Democrático,Senado de la República,Boyacá
+15562,282.0,Christian Munir Garcés Aljure,Centro Democrático,Senado de la República,Valle del Cauca
+15562,7483.0,Óscar Leonardo Villamizar Meneses,Centro Democrático,Senado de la República,Santander
+15562,13049.0,Enrique 'Kike' Cabrales Baquero,Centro Democrático,Senado de la República,Bolívar
+15562,13462.0,Esteban Quintero Cardona,Centro Democrático,Senado de la República,Antioquia
+15562,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Senado de la República,Antioquia
+15562,14774.0,María Angélica Guerra López,Centro Democrático,Senado de la República,Sucre
+15562,14813.0,Rafael Nieto Loaiza,Centro Democrático,Senado de la República,Distrito Capital
+15562,14814.0,Claudia Margarita Zuleta Murgas,Centro Democrático,Senado de la República,Cesar
+15562,14817.0,Juan Fernando Caicedo Callejas,Centro Democrático,Senado de la República,Tolima
+15562,14818.0,Zandra María Bernal Rincón,Centro Democrático,Senado de la República,Boyacá
+15530,14774.0,María Angélica Guerra López,Centro Democrático,Senado de la República,Sucre
+15522,14848.0,Daniel Felipe Briceño Montes,Centro Democrático,Cámara de Representantes,Distrito Capital
+15518,14818.0,Zandra María Bernal Rincón,Centro Democrático,Senado de la República,Boyacá
+15484,14849.0,David Gerardo Cote Rodríguez,Centro Democrático,Cámara de Representantes,Distrito Capital
+15441,2459.0,Antonio José Correa Jiménez,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Bolívar
+15441,13578.0,Jorge Alejandro Ocampo Giraldo,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15440,2459.0,Antonio José Correa Jiménez,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Bolívar
+15391,14858.0,María Camila Salas Salas,Conservador Colombiano,Cámara de Representantes,Bolívar
+15390,14858.0,María Camila Salas Salas,Conservador Colombiano,Cámara de Representantes,Bolívar
+15359,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+15342,14633.0,Gabriel Ernesto Parrado Durán,Pacto Histórico Coalición,Cámara de Representantes,Meta
+15342,14636.0,Mary Anne Andrea Perdomo Gutiérrez,Pacto Histórico Coalición,Cámara de Representantes,Santander
+15342,14648.0,Robert Daza Guevara,Pacto Histórico Coalición,Senado de la República,Nariño
+15220,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+15220,1172.0,Mauricio Parodi Díaz,Cambio Radical Colombia Justa Libres Coalición,Cámara de Representantes,Antioquia
+15220,1201.0,Diego Patiño Amariles,Liberal Colombiano,Cámara de Representantes,Risaralda
+15220,6057.0,Astrid Sánchez Montes De Oca,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Chocó
+15220,7696.0,Olga Lucía Velásquez Nieto,Alianza Verde,Cámara de Representantes,Distrito Capital
+15220,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+15220,12827.0,Luis Alberto Albán Urbano,Comunes,Cámara de Representantes,Valle del Cauca
+15220,12999.0,Julián Peinado Ramírez,Liberal Colombiano,Cámara de Representantes,Antioquia
+15220,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+15220,13451.0,Germán José Gómez López,Comunes,Cámara de Representantes,Atlántico
+15220,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+15220,14611.0,Jhoany Carlos Alberto Palacios Mosquera,Liberal Colombiano,Cámara de Representantes,Chocó
+15220,14616.0,Alvaro Leonel Rueda Caballero,Liberal Colombiano,Cámara de Representantes,Santander
+15220,14621.0,María Fernanda Carrascal Rojas,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15220,14622.0,Gabriel Becerra Yañez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15220,14623.0,Etna Tamara Argote Calderón,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15220,14630.0,Leider Alexandra Vásquez Ochoa,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+15220,14635.0,Jorge Andrés Cancimance López,Pacto Histórico Coalición,Cámara de Representantes,Putumayo
+15220,14636.0,Mary Anne Andrea Perdomo Gutiérrez,Pacto Histórico Coalición,Cámara de Representantes,Santander
+15220,14730.0,Julián David López Tenorio,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+15220,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+15220,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+15220,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+15220,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+15220,14713.0,Daniel Carvalho Mejía,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Antioquia
+15220,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+15220,14716.0,Martha Lisbeth Alfonso Jurado,Pacto Histórico Coalición,Cámara de Representantes,Tolima
+15220,14731.0,Julia Miranda Londoño,Nuevo Liberalismo,Cámara de Representantes,Distrito Capital
+15220,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+15220,14740.0,Norman David Bañol Alvarez,MAIS - Movimiento Alternativo Indígena y Social,Cámara de Representantes,Caldas
+15220,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+15220,14765.0,Gloria Liliana Rodríguez Valencia,Alianza Verde,Cámara de Representantes,Cundinamarca
+15220,14772.0,Luz Ayda Pastrana Loaiza,Cambio Radical,Cámara de Representantes,Huila
+15210,14774.0,María Angélica Guerra López,Centro Democrático,Senado de la República,Sucre
+15041,7621.0,Mauricio Gómez Amín,Liberal Colombiano,Senado de la República,Atlántico
+15034,14131.0,Ana María Castañeda Gómez,Cambio Radical,Senado de la República,Sucre
+14621,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+14621,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+14621,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+14621,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+14621,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+14616,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+14616,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+14038,12555.0,David Ricardo Racero Mayorca,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13991,7567.0,Sor Berenice Bedoya Pérez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Antioquia
+13991,12314.0,Julio Alberto Elias Vidal,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Córdoba
+13991,14668.0,Héctor Mauricio Cuéllar Pinzón,Conservador Colombiano,Cámara de Representantes,Caquetá
+13991,14719.0,Gustavo Adolfo Moreno Hurtado,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13904,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13904,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13904,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+13904,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+13904,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13904,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+13850,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+13269,180.0,David Luna Sanchez,Cambio Radical,Senado de la República,Distrito Capital
+13269,1522.0,Germán Alcides Blanco Álvarez,Conservador Colombiano,Senado de la República,Antioquia
+13269,1781.0,Elkin Rodolfo Ospina Ospina,Alianza Verde,Cámara de Representantes,Antioquia
+13269,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13269,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+13269,12555.0,David Ricardo Racero Mayorca,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13269,13342.0,Julio César Triana Quintero,Cambio Radical,Cámara de Representantes,Huila
+13269,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+13269,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+13269,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+13269,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13269,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13269,14713.0,Daniel Carvalho Mejía,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Antioquia
+13269,14737.0,Wilder Iberson Escobar Ortiz,Gente en movimiento,Cámara de Representantes,Caldas
+13269,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+13040,46.0,Carlos Julio Gonzalez Villa,Cambio Radical,Senado de la República,Huila
+13040,140.0,Carlos Alberto Cuenca Chaux,Cambio Radical,Cámara de Representantes,Guainía
+13040,1172.0,Mauricio Parodi Díaz,Cambio Radical Colombia Justa Libres Coalición,Cámara de Representantes,Antioquia
+13040,1186.0,Carlos Fernando Motoa Solarte,Cambio Radical,Senado de la República,Valle del Cauca
+13040,2268.0,Carlos Abraham Jiménez López,Cambio Radical,Senado de la República,Valle del Cauca
+13040,2507.0,Jaime Rodríguez Contreras,Cambio Radical,Cámara de Representantes,Meta
+13040,2508.0,Bayardo Gilberto Betancourt Pérez,Cambio Radical,Cámara de Representantes,Nariño
+13040,8906.0,José Luis Pérez Oyuela,Cambio Radical,Senado de la República,Valle del Cauca
+13040,8921.0,Modesto Enrique Aguilera Vides,Cambio Radical,Cámara de Representantes,Atlántico
+13040,12911.0,Jorge Enrique Benedetti Martelo,Cambio Radical,Senado de la República,Bolívar
+13040,12994.0,Jairo Humberto Cristo Correa,Cambio Radical,Cámara de Representantes,Norte de Santander
+13040,13301.0,John Edgar Pérez Rojas,Cambio Radical,Cámara de Representantes,Quindío
+13040,13342.0,Julio César Triana Quintero,Cambio Radical,Cámara de Representantes,Huila
+13040,13350.0,"Jorge Dilson ""Tito"" Murcia Olaya",Cambio Radical,Cámara de Representantes,Huila
+13040,13785.0,Carlos Mario Farelo Daza,Cambio Radical,Senado de la República,Magdalena
+13040,14029.0,Edgar Jesús Díaz Contreras,Cambio Radical,Senado de la República,Norte de Santander
+13040,14038.0,Didier Lobo Chinchilla,Cambio Radical,Senado de la República,Cesar
+13040,14089.0,Antonio Luis Toño Zabaraín Guevara,Cambio Radical,Senado de la República,Atlántico
+13040,14131.0,Ana María Castañeda Gómez,Cambio Radical,Senado de la República,Sucre
+13040,14428.0,Néstor Leonardo Rico Rico,Cambio Radical,Cámara de Representantes,Cundinamarca
+13040,14686.0,Lina María Garrido Martín,Cambio Radical,Cámara de Representantes,Arauca
+13040,14687.0,Gersel Luis Pérez Altamiranda,Cambio Radical,Cámara de Representantes,Atlántico
+13040,14688.0,Betsy Judith Pérez Arango,Cambio Radical,Cámara de Representantes,Atlántico
+13040,14689.0,Adriana Carolina Arbelaez Giraldo,Cambio Radical,Cámara de Representantes,Distrito Capital
+13040,14691.0,Sandra Milena Ramírez Caviedes,Cambio Radical,Cámara de Representantes,Magdalena
+13040,14692.0,Hernando González,Cambio Radical,Cámara de Representantes,Valle del Cauca
+13040,14766.0,Javier Alexander Sánchez Reyes,Cambio Radical,Cámara de Representantes,Vichada
+12764,112.0,Roy Leonardo Barreras Montealegre,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+12764,668.0,Alexánder López Maya,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+12764,2395.0,Iván Cepeda Castro,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+12764,2533.0,Wilson Neber Arias Castillo,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+12764,7739.0,Inti Raúl Asprilla Reyes,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12764,13417.0,Pablo Catatumbo Torres Victoria,Comunes,Senado de la República,Valle del Cauca
+12764,13649.0,Gustavo Bolívar Moreno,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+12764,14269.0,Sandra Yaneth Jaimes Cruz,Pacto Histórico Coalición,Senado de la República,Santander
+12764,14646.0,Isabel Cristina Zuleta Lopez,Pacto Histórico Coalición,Senado de la República,Antioquia
+12764,14711.0,Clara Eugenia López Obregón,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+12764,14649.0,Yuly Esmeralda Hernández Silva,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+12764,14645.0,Pedro Hernando Flórez Porras,Pacto Histórico Coalición,Senado de la República,Atlántico
+12764,14647.0,Alex Xavier Flórez Hernández,Pacto Histórico Coalición,Senado de la República,Antioquia
+12764,14619.0,Susana Gómez Castaño,Pacto Histórico Coalición,Cámara de Representantes,Antioquia
+12764,14624.0,María del Mar Pizarro García,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+12764,14629.0,Eduard Giovanny Sarmiento Hidalgo,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+12764,14630.0,Leider Alexandra Vásquez Ochoa,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+12764,14648.0,Robert Daza Guevara,Pacto Histórico Coalición,Senado de la República,Nariño
+12764,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+12764,14743.0,Jahel Quiroga Carrillo,Pacto Histórico Coalición,Senado de la República,Tolima
+12764,14744.0,Paulino Riascos Riascos,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+12744,98.0,Manuel Antonio Virgüez Piraquive,MIRA - Colombia Justa Libres,Senado de la República,Atlántico
+12744,180.0,David Luna Sanchez,Cambio Radical,Senado de la República,Distrito Capital
+12744,668.0,Alexánder López Maya,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+12744,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12744,7354.0,Carlos Eduardo Guevara Villabón,MIRA - Colombia Justa Libres,Senado de la República,Distrito Capital
+12744,7554.0,Ana Paola Agudelo García,MIRA - Colombia Justa Libres,Senado de la República,Tolima
+12744,12771.0,Carlos Alberto Sergio Carreño Marín,Comunes,Cámara de Representantes,Distrito Capital
+12744,12827.0,Luis Alberto Albán Urbano,Comunes,Cámara de Representantes,Valle del Cauca
+12744,13148.0,Irma Luz Herrera Rodríguez,MIRA - Colombia Justa Libres,Cámara de Representantes,Distrito Capital
+12744,13419.0,Julián Gallo Cubillos,Comunes,Senado de la República,Distrito Capital
+12744,13420.0,Sandra Ramírez Lobo Silva,Comunes,Senado de la República,Santander
+12744,13451.0,Germán José Gómez López,Comunes,Cámara de Representantes,Atlántico
+12744,13507.0,Omar De Jesús Olmedo Restrepo Correa,Comunes,Senado de la República,Antioquia
+12744,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+12744,14331.0,Jairo Reinaldo Cala Suárez,Comunes,Cámara de Representantes,Santander
+12744,14657.0,Jonathan Ferney Jota Pe Pulido Hernández,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+12744,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12744,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+12744,14706.0,Pedro Baracutao García Ospina,Comunes,Cámara de Representantes,Antioquia
+12744,14707.0,Marelen Castillo Torres,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12744,14708.0,Erika Tatiana Sánchez Pinto,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12744,14709.0,Juan Manuel Cortés Dueñas,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12744,14719.0,Gustavo Adolfo Moreno Hurtado,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+12744,14724.0,Imelda Daza Cotes,Comunes,Senado de la República,Distrito Capital
+12744,14729.0,Rodolfo Hernández Suárez,Liga de gobernantes anticorrupción,Senado de la República,Santander
+12734,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12734,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+12734,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+12734,13464.0,Hernán Darío Cadavid Márquez,Centro Democrático,Cámara de Representantes,Antioquia
+12734,14661.0,Ana Carolina Espitia Jerez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Boyacá
+12734,14613.0,Piedad Correal Rubiano,Liberal Colombiano,Cámara de Representantes,Quindío
+12734,14657.0,Jonathan Ferney Jota Pe Pulido Hernández,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+12734,14689.0,Adriana Carolina Arbelaez Giraldo,Cambio Radical,Cámara de Representantes,Distrito Capital
+12734,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+12734,14703.0,Juan Diego Muñoz Cabrera,Alianza Verde,Cámara de Representantes,Meta
+12734,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+12734,14707.0,Marelen Castillo Torres,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12734,14708.0,Erika Tatiana Sánchez Pinto,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12734,14709.0,Juan Manuel Cortés Dueñas,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12734,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12734,14733.0,Oscar Rodrigo Campo Hurtado,Cambio Radical Mira Coalición,Cámara de Representantes,Cauca
+12734,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+12604,1781.0,Elkin Rodolfo Ospina Ospina,Alianza Verde,Cámara de Representantes,Antioquia
+12604,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12604,13679.0,Gloria Ines Florez Schneider,Pacto Histórico Coalición,Senado de la República,Santander
+12604,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+12604,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12604,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+12604,14702.0,Jaime Raúl Salamanca Torres,Alianza Verde,Cámara de Representantes,Boyacá
+12604,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+12604,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12604,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12604,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+12604,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+12604,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+12560,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Senado de la República,La Guajira
+12559,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12559,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+12559,14702.0,Jaime Raúl Salamanca Torres,Alianza Verde,Cámara de Representantes,Boyacá
+12559,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+12559,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+12559,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12559,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12559,14713.0,Daniel Carvalho Mejía,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Antioquia
+12559,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+12559,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+12212,77.0,Jorge Enrique Robledo Castillo,Dignidad,Senado de la República,
+12212,92.0,Luis Fernando Velasco Cháves,Liberal Colombiano,Senado de la República,
+12212,2097.0,Temístocles Ortega Narváez,Cambio Radical,Senado de la República,
+12212,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+12212,2395.0,Iván Cepeda Castro,PDA - Polo Democrático Alternativo,Senado de la República,
+12212,2447.0,Maritza Martínez Aristizábal,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+12212,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+12212,13164.0,Juanita María Goebertus Estrada,Alianza Verde,Cámara de Representantes,Distrito Capital
+12212,13285.0,Jorge Alberto Gómez Gallego,Dignidad,Cámara de Representantes,Antioquia
+12212,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+12212,13594.0,José Daniel López Jiménez,Cambio Radical,Cámara de Representantes,Distrito Capital
+12212,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+12212,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+12212,13948.0,Catalina Ortiz Lalinde,Alianza Verde,Cámara de Representantes,Valle del Cauca
+12118,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+12090,2600.0,José David Name Cardozo,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+12090,13887.0,Alejandro Corrales Escobar,Centro Democrático,Senado de la República,
+11783,2600.0,José David Name Cardozo,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+11783,13887.0,Alejandro Corrales Escobar,Centro Democrático,Senado de la República,
+11500,811.0,Gustavo Francisco Petro Urrego,Colombia Humana,Senado de la República,
+11500,12555.0,David Ricardo Racero Mayorca,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+11500,13649.0,Gustavo Bolívar Moreno,Coalición Lista de la Decencia,Senado de la República,
+11484,106.0,Miguel Amín Escaf,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+11484,658.0,Oscar Tulio Lizcano Gonzalez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Caldas
+11484,8344.0,Andrés García Zuccardi,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+11484,8595.0,Christian José Moreno Villamizar,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Cesar
+11484,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+11292,14264.0,Jhon Arley Murillo Benitez,Consejo Comunitario Ancestral de Comunidades Negras Playa Renaciente,Cámara de Representantes,Comunidades Afro
+11292,12855.0,Juan Diego Echavarría Sánchez,Liberal Colombiano,Cámara de Representantes,Antioquia
+11292,13688.0,Ángela Patricia Sánchez Leal,Cambio Radical,Cámara de Representantes,Distrito Capital
+11292,12994.0,Jairo Humberto Cristo Correa,Cambio Radical,Cámara de Representantes,Norte de Santander
+11292,12911.0,Jorge Enrique Benedetti Martelo,Cambio Radical,Cámara de Representantes,Bolívar
+11292,8528.0,Faber Alberto Muñoz Cerón,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Cauca
+11292,13236.0,Norma Hurtado Sánchez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+11292,12301.0,Jairo Giovany Cristancho Tarache,Centro Democrático,Cámara de Representantes,Casanare
+11292,12528.0,Jennifer Kristin Arias Falla,Centro Democrático,Cámara de Representantes,Meta
+11086,2097.0,Temístocles Ortega Narváez,Cambio Radical,Senado de la República,
+11086,13594.0,José Daniel López Jiménez,Cambio Radical,Cámara de Representantes,Distrito Capital
+11086,12555.0,David Ricardo Racero Mayorca,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+11086,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+11086,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,
+11086,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+11086,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+11086,13150.0,León Fredy Muñoz Lopera,Alianza Verde,Cámara de Representantes,Antioquia
+11086,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+11086,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+11086,13164.0,Juanita María Goebertus Estrada,Alianza Verde,Cámara de Representantes,Distrito Capital
+11086,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+10847,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+10847,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,La Guajira
+10847,7677.0,Harry Giovanny González García,Liberal Colombiano,Cámara de Representantes,Caquetá
+10847,7767.0,Nilton Córdoba Manyoma,Liberal Colombiano,Cámara de Representantes,Chocó
+10847,13342.0,Julio César Triana Quintero,Cambio Radical,Cámara de Representantes,Huila
+10847,1880.0,Erwin Arias Betancur,Cambio Radical,Cámara de Representantes,Caldas
+10847,12443.0,Adriana Magali Matiz Vargas,Conservador Colombiano,Cámara de Representantes,Tolima
+10847,656.0,Buenaventura León León,Conservador Colombiano,Cámara de Representantes,Cundinamarca
+10847,9442.0,Juan David Vélez Trujillo,Centro Democrático,Cámara de Representantes,Extranjero
+10847,12376.0,Gabriel Jaime Vallejo Chujfi,Centro Democrático,Cámara de Representantes,Risaralda
+10847,7635.0,José Jaime Uscátegui Pastrana,Centro Democrático,Cámara de Representantes,Distrito Capital
+10847,7338.0,Margarita María Restrepo Arango,Centro Democrático,Cámara de Representantes,Antioquia
+10847,809.0,Oscar Darío Pérez Pineda,Centro Democrático,Cámara de Representantes,Antioquia
+10847,9406.0,Rubén Darío Molano Piñeros,Centro Democrático,Cámara de Representantes,Cundinamarca
+10847,282.0,Christian Munir Garcés Aljure,Centro Democrático,Cámara de Representantes,Valle del Cauca
+10847,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Cámara de Representantes,Antioquia
+10847,13055.0,Juan Manuel Daza Iguarán,Centro Democrático,Cámara de Representantes,Distrito Capital
+10847,12605.0,Yenica Sugein Acosta Infante,Centro Democrático,Cámara de Representantes,Amazonas
+10847,13887.0,Alejandro Corrales Escobar,Centro Democrático,Senado de la República,
+10761,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+10597,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+10597,2600.0,José David Name Cardozo,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+10597,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,La Guajira
+10597,8344.0,Andrés García Zuccardi,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+10412,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+10412,7839.0,Ángel María Gaitán Pulido,Liberal Colombiano,Cámara de Representantes,Tolima
+10412,282.0,Christian Munir Garcés Aljure,Centro Democrático,Cámara de Representantes,Valle del Cauca
+10412,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Cámara de Representantes,Antioquia
+10412,13049.0,Enrique 'Kike' Cabrales Baquero,Centro Democrático,Cámara de Representantes,Distrito Capital
+10412,14320.0,Edwin Gilberto Ballesteros Archila,Centro Democrático,Cámara de Representantes,Santander
+10412,2256.0,Ricardo Alfonso Ferro Lozano,Centro Democrático,Cámara de Representantes,Tolima
+10321,12994.0,Jairo Humberto Cristo Correa,Cambio Radical,Cámara de Representantes,Norte de Santander
+10321,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,
+10321,2533.0,Wilson Neber Arias Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+10321,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+10321,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+10321,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+10321,13150.0,León Fredy Muñoz Lopera,Alianza Verde,Cámara de Representantes,Antioquia
+10321,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+10321,1804.0,Jorge Eduardo Londoño Ulloa,Alianza Verde,Senado de la República,
+10321,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+10321,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+10040,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+10017,8439.0,Álvaro Uribe Velez,Centro Democrático,Senado de la República,
+10017,9442.0,Juan David Vélez Trujillo,Centro Democrático,Cámara de Representantes,Extranjero
+10017,9535.0,Paloma Susana Valencia Laserna,Centro Democrático,Senado de la República,
+10017,7335.0,Santiago Valencia González,Centro Democrático,Senado de la República,
+10017,7315.0,Edward David Rodríguez Rodríguez,Centro Democrático,Cámara de Representantes,Distrito Capital
+10017,9495.0,Ciro Alejandro Ramírez Cortés,Centro Democrático,Senado de la República,
+10017,13268.0,Diego Javier Osorio Jiménez,Centro Democrático,Cámara de Representantes,Quindío
+10017,9430.0,Carlos Felipe Mejía Mejía,Centro Democrático,Senado de la República,Caldas
+10017,9537.0,Honorio Miguel Henríquez Pinedo,Centro Democrático,Senado de la República,Magdalena
+10017,282.0,Christian Munir Garcés Aljure,Centro Democrático,Cámara de Representantes,Valle del Cauca
+10017,13887.0,Alejandro Corrales Escobar,Centro Democrático,Senado de la República,
+10017,13055.0,Juan Manuel Daza Iguarán,Centro Democrático,Cámara de Representantes,Distrito Capital
+10017,13049.0,Enrique 'Kike' Cabrales Baquero,Centro Democrático,Cámara de Representantes,Distrito Capital
+10017,7312.0,María Fernanda Cabal Molina,Centro Democrático,Senado de la República,
+10017,13474.0,John Jairo Bermúdez Garcés,Centro Democrático,Cámara de Representantes,Antioquia
+10017,14320.0,Edwin Gilberto Ballesteros Archila,Centro Democrático,Cámara de Representantes,Santander
+9894,14552.0,Jonatán Tamayo Pérez,Coalición Lista de la Decencia,Senado de la República,
+9894,9442.0,Juan David Vélez Trujillo,Centro Democrático,Cámara de Representantes,Extranjero
+9894,13852.0,Gabriel Jaime Velasco Ocampo,Centro Democrático,Senado de la República,
+9894,9535.0,Paloma Susana Valencia Laserna,Centro Democrático,Senado de la República,
+9894,7335.0,Santiago Valencia González,Centro Democrático,Senado de la República,
+9894,7635.0,José Jaime Uscátegui Pastrana,Centro Democrático,Cámara de Representantes,Distrito Capital
+9894,8439.0,Álvaro Uribe Velez,Centro Democrático,Senado de la República,
+9894,12666.0,Luis Emilio Tovar Bello,Centro Democrático,Cámara de Representantes,Arauca
+9894,13901.0,John Harold Suárez Vargas,Centro Democrático,Senado de la República,Valle del Cauca
+9894,7315.0,Edward David Rodríguez Rodríguez,Centro Democrático,Cámara de Representantes,Distrito Capital
+9894,9495.0,Ciro Alejandro Ramírez Cortés,Centro Democrático,Senado de la República,
+9894,13462.0,Esteban Quintero Cardona,Centro Democrático,Cámara de Representantes,Antioquia
+9894,13900.0,Nicolás Pérez Vásquez,Centro Democrático,Senado de la República,
+9894,809.0,Oscar Darío Pérez Pineda,Centro Democrático,Cámara de Representantes,Antioquia
+9894,9430.0,Carlos Felipe Mejía Mejía,Centro Democrático,Senado de la República,Caldas
+9894,13873.0,Carlos Manuel Meisel Vergara,Centro Democrático,Senado de la República,
+9894,7453.0,César Eugenio Martínez Restrepo,Centro Democrático,Cámara de Representantes,Antioquia
+9894,9481.0,Ernesto Macías Tovar,Centro Democrático,Senado de la República,
+9894,9537.0,Honorio Miguel Henríquez Pinedo,Centro Democrático,Senado de la República,Magdalena
+9894,9435.0,María Del Rosario Guerra De La Espriella,Centro Democrático,Senado de la República,
+9894,14551.0,Amanda Rocío González Rodríguez,Centro Democrático,Senado de la República,
+9894,2256.0,Ricardo Alfonso Ferro Lozano,Centro Democrático,Cámara de Representantes,Tolima
+9894,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Cámara de Representantes,Antioquia
+9894,13055.0,Juan Manuel Daza Iguarán,Centro Democrático,Cámara de Representantes,Distrito Capital
+9894,13887.0,Alejandro Corrales Escobar,Centro Democrático,Senado de la República,
+9894,9508.0,Ruby Helena Chagüí Spath,Centro Democrático,Senado de la República,
+9894,13049.0,Enrique 'Kike' Cabrales Baquero,Centro Democrático,Cámara de Representantes,Distrito Capital
+9894,7312.0,María Fernanda Cabal Molina,Centro Democrático,Senado de la República,
+9894,12528.0,Jennifer Kristin Arias Falla,Centro Democrático,Cámara de Representantes,Meta
+9894,8511.0,Fernando Nicolás Araújo Rumié,Centro Democrático,Senado de la República,
+9881,1513.0,Juan Diego Gómez Jiménez,Conservador Colombiano,Senado de la República,
+9795,1513.0,Juan Diego Gómez Jiménez,Conservador Colombiano,Senado de la República,
+9734,13688.0,Ángela Patricia Sánchez Leal,Cambio Radical,Cámara de Representantes,Distrito Capital
+9734,2507.0,Jaime Rodríguez Contreras,Cambio Radical,Cámara de Representantes,Meta
+9734,8930.0,Eloy Chichi Quintero Romero,Cambio Radical,Cámara de Representantes,Cesar
+9734,8929.0,José Luis Pinedo Campo,Cambio Radical,Cámara de Representantes,Magdalena
+9734,718.0,Jose Ignacio Mesa Betancur,Cambio Radical,Cámara de Representantes,Antioquia
+9734,12331.0,Jorge Méndez Hernández,Cambio Radical,Cámara de Representantes,San Andrés y Providencia
+9734,13928.0,César Augusto Lorduy Maldonado,Cambio Radical,Cámara de Representantes,Atlántico
+9734,2516.0,Atilano Alonso Giraldo Arboleda,Cambio Radical,Cámara de Representantes,Quindío
+9734,7437.0,Ciro Fernández Núñez,Cambio Radical,Cámara de Representantes,Santander
+9734,140.0,Carlos Alberto Cuenca Chaux,Cambio Radical,Cámara de Representantes,Guainía
+9734,12994.0,Jairo Humberto Cristo Correa,Cambio Radical,Cámara de Representantes,Norte de Santander
+9734,2508.0,Bayardo Gilberto Betancourt Pérez,Cambio Radical,Cámara de Representantes,Nariño
+9734,13967.0,Oswaldo Arcos Benavides,Cambio Radical,Cámara de Representantes,Valle del Cauca
+9734,8921.0,Modesto Enrique Aguilera Vides,Cambio Radical,Cámara de Representantes,Atlántico
+9734,14038.0,Didier Lobo Chinchilla,Cambio Radical,Senado de la República,
+9664,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+9664,9481.0,Ernesto Macías Tovar,Centro Democrático,Senado de la República,
+9664,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+9664,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+9664,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+9664,13222.0,John Milton Rodríguez González,Colombia Justa Libres (Antes Movimiento Libres),Senado de la República,
+9663,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+9663,9481.0,Ernesto Macías Tovar,Centro Democrático,Senado de la República,
+9663,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+9663,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+9663,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+9663,2447.0,Maritza Martínez Aristizábal,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+9663,13222.0,John Milton Rodríguez González,Colombia Justa Libres (Antes Movimiento Libres),Senado de la República,
+9663,9169.0,Eduardo Emilio Pacheco Cuello,Colombia Justa Libres (Antes Movimiento Libres),Senado de la República,
+9662,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+9662,9481.0,Ernesto Macías Tovar,Centro Democrático,Senado de la República,
+9662,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+9662,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+9662,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+9662,13222.0,John Milton Rodríguez González,Colombia Justa Libres (Antes Movimiento Libres),Senado de la República,
+9662,2447.0,Maritza Martínez Aristizábal,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+9650,9535.0,Paloma Susana Valencia Laserna,Centro Democrático,Senado de la República,
+9650,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+9650,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,
+9650,77.0,Jorge Enrique Robledo Castillo,Dignidad,Senado de la República,
+9650,92.0,Luis Fernando Velasco Cháves,Liberal Colombiano,Senado de la República,
+9586,282.0,Christian Munir Garcés Aljure,Centro Democrático,Cámara de Representantes,Valle del Cauca
+9586,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+9586,14411.0,Felipe Andrés Muñoz Delgado,Conservador Colombiano,Cámara de Representantes,Nariño
+9586,7677.0,Harry Giovanny González García,Liberal Colombiano,Cámara de Representantes,Caquetá
+9586,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+9586,14032.0,Richard Alfonso Aguilar Villa,Cambio Radical,Senado de la República,
+9586,12861.0,Laura Ester Fortich Sánchez,Liberal Colombiano,Senado de la República,
+9586,8637.0,Elbert Díaz Lozano,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+9586,8893.0,Karen Violette Cure Corcione,Cambio Radical,Cámara de Representantes,Bolívar
+9586,14029.0,Edgar Jesús Díaz Contreras,Cambio Radical,Senado de la República,
+9586,13223.0,Edgar Enrique Palacio Mizrahi,Colombia Justa Libres (Antes Movimiento Libres),Senado de la República,
+9586,8344.0,Andrés García Zuccardi,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+9192,5479.0,John Jairo Cárdenas Morán,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Cauca
+9089,7315.0,Edward David Rodríguez Rodríguez,Centro Democrático,Cámara de Representantes,Distrito Capital
+9052,9537.0,Honorio Miguel Henríquez Pinedo,Centro Democrático,Senado de la República,Antioquia
+9052,2459.0,Antonio José Correa Jiménez,Opción Ciudadana,Senado de la República,Bolívar
+9052,8439.0,Álvaro Uribe Velez,Centro Democrático,Senado de la República,Antioquia
+8674,8223.0,Claudia Nayibe López Hernández,Alianza Verde,Senado de la República,Distrito Capital
+8674,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,Distrito Capital
+8574,8467.0,Nadia Georgette Blel Scaff,Conservador Colombiano,Senado de la República,Bolívar
+8503,1468.0,Arturo Yepes Alzate,Conservador Colombiano,Cámara de Representantes,Caldas
+8503,7696.0,Olga Lucía Velásquez Nieto,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+8503,1177.0,Heriberto Sanabria Astudillo,Conservador Colombiano,Cámara de Representantes,Valle del Cauca
+8503,2439.0,Juan Felipe Lemos Uribe,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Antioquia
+8503,6099.0,Nicolas Daniel Guerrero Montaño,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Sucre
+8503,446.0,Jimmy Chamorro Cruz,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Valle del Cauca
+8503,1693.0,David Alejandro Barguil Assis,Conservador Colombiano,Cámara de Representantes,Córdoba
+8503,8361.0,Ana Cristina Paz Cardona,Alianza Verde,Cámara de Representantes,Valle del Cauca
+8503,8223.0,Claudia Nayibe López Hernández,Alianza Verde,Senado de la República,Distrito Capital
+8503,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,Distrito Capital
+8503,8162.0,Sandra Liliana Ortiz Nova,Alianza Verde,Senado de la República,Boyacá
+8503,8183.0,Oscar Ospina Quintero,Alianza Verde,Cámara de Representantes,Cauca
+8503,7354.0,Carlos Eduardo Guevara Villabón,MIRA,Senado de la República,Distrito Capital
+8500,177.0,Oscar Mauricio Lizcano Arango,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Antioquia
+8500,38.0,Juan Manuel Galan Pachon,Liberal Colombiano,Senado de la República,Distrito Capital
+8500,753.0,Antonio Jose Navarro Wolff,Alianza Verde,Senado de la República,Distrito Capital
+8500,8344.0,Andrés García Zuccardi,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Bolívar
+8500,7792.0,Carlos Fernando Galan Pachon,Cambio Radical,Senado de la República,Distrito Capital
+8500,9482.0,Ivan Duque Márquez,Centro Democrático,Senado de la República,Antioquia
+7964,8223.0,Claudia Nayibe López Hernández,Alianza Verde,Senado de la República,Distrito Capital
+7964,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,Distrito Capital
+7964,7792.0,Carlos Fernando Galan Pachon,Cambio Radical,Senado de la República,Distrito Capital
+7964,4.0,Hernan Francisco Andrade Serrano,Conservador Colombiano,Senado de la República,Huila
+7964,13.0,Armando Alberto Benedetti Villaneda,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Distrito Capital
+7964,2484.0,Hernán Penagos Giraldo,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Caldas
+7964,1177.0,Heriberto Sanabria Astudillo,Conservador Colombiano,Cámara de Representantes,Valle del Cauca
+7952,8223.0,Claudia Nayibe López Hernández,Alianza Verde,Senado de la República,Distrito Capital
+7952,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,Distrito Capital
+7881,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,La Guajira
+7001,2447.0,Maritza Martínez Aristizábal,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Meta
+6501,12.0,Carlos Emiro Barriga Peñaranda,Conservador Colombiano,Senado de la República,Norte de Santander
+6501,519.0,Manuel Mesias Enriquez Rosero,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Nariño
+6501,92.0,Luis Fernando Velasco Cháves,Liberal Colombiano,Senado de la República,Cauca
+6501,1219.0,Simon Gaviria Muñoz,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+6501,192.0,Carlos Germán Navas Talero,PDA - Polo Democrático Alternativo,Cámara de Representantes,Distrito Capital
+6501,1894.0,Alfonso Prada Gil,Partido Verde,Cámara de Representantes,Distrito Capital
+6501,1805.0,John Sudarsky Rosenbaum,Partido Verde,Senado de la República,Distrito Capital
+6479,27.0,Juan Manuel Corzo Román,Conservador Colombiano,Senado de la República,Norte de Santander
+6068,12.0,Carlos Emiro Barriga Peñaranda,Conservador Colombiano,Senado de la República,Norte de Santander
+6068,33.0,Carlos Eduardo Enríquez Maya,Conservador Colombiano,Senado de la República,Nariño
+5868,1219.0,Simon Gaviria Muñoz,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+5868,107.0,Fabio Raúl Amín Saleme,Liberal Colombiano,Cámara de Representantes,Córdoba
+5868,1894.0,Alfonso Prada Gil,Partido Verde,Cámara de Representantes,Distrito Capital
+5868,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,La Guajira
+5868,183.0,Rosmery Martinez Rosales,Cambio Radical,Cámara de Representantes,Tolima
+5868,122.0,Angel Custodio Cabrera Baez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Distrito Capital
+5868,106.0,Miguel Amín Escaf,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Atlántico
+5868,16.0,Javier Enrique Caceres Leal,Cambio Radical,Senado de la República,Bolívar
+5868,59.0,Manuel Guillermo Mora Jaramillo,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Norte de Santander
+5868,38.0,Juan Manuel Galan Pachon,Liberal Colombiano,Senado de la República,Distrito Capital
+3343,60.0,Alexandra Moreno Piraquive,MIRA,Senado de la República,Distrito Capital
+3328,100.0,Gabriel Ignacio Zapata Correa,Equipo Colombia,Senado de la República,Antioquia
+3075,9.0,Alvaro Antonio Ashton Giraldo,Liberal Colombiano,Cámara de Representantes,Atlántico
+2434,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+1829,133.0,Juan De Jesus Cordoba Suarez,Conservador Colombiano,Cámara de Representantes,Boyacá
+280,98.0,Manuel Antonio Virgüez Piraquive,MIRA,Senado de la República,Distrito Capital
+280,60.0,Alexandra Moreno Piraquive,MIRA,Senado de la República,Distrito Capital
+280,10.0,Luis Carlos Avellaneda Tarazona,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+280,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+5252,391.0,Claudia Blum De Barberi,Movimiento 98,Senado de la República,Valle del Cauca
+5101,388.0,Ingrid Betancourt Pulecio,Verde-Oxígeno,Senado de la República,Distrito Capital
+4735,973.0,German Vargas Lleras,Liberal Colombiano,Senado de la República,Distrito Capital
+4592,973.0,German Vargas Lleras,Liberal Colombiano,Senado de la República,Distrito Capital
+4563,753.0,Antonio Jose Navarro Wolff,Vía Alterna,Cámara de Representantes,Distrito Capital
+4205,388.0,Ingrid Betancourt Pulecio,Verde-Oxígeno,Senado de la República,Distrito Capital
+15072,2508.0,Bayardo Gilberto Betancourt Pérez,Cambio Radical,Cámara de Representantes,Nariño
+15072,14632.0,Leyla Marleny Rincón Trujillo,Pacto Histórico Coalición,Cámara de Representantes,Huila
+13689,180.0,David Luna Sanchez,Cambio Radical,Senado de la República,Distrito Capital
+11938,1804.0,Jorge Eduardo Londoño Ulloa,Alianza Verde,Senado de la República,
+11938,2084.0,Alejandro Carlos Chacón Camargo,Liberal Colombiano,Cámara de Representantes,Norte de Santander
+11938,2097.0,Temístocles Ortega Narváez,Cambio Radical,Senado de la República,
+11938,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+11938,2533.0,Wilson Neber Arias Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+11938,7470.0,Nicolás Albeiro Echeverry Alvarán,Conservador Colombiano,Cámara de Representantes,Antioquia
+11938,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+11938,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+11938,12994.0,Jairo Humberto Cristo Correa,Cambio Radical,Cámara de Representantes,Norte de Santander
+11938,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+11938,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+11740,33.0,Carlos Eduardo Enríquez Maya,Conservador Colombiano,Senado de la República,
+11740,53.0,Rodrigo Lara Restrepo,Cambio Radical,Senado de la República,
+11740,77.0,Jorge Enrique Robledo Castillo,Dignidad,Senado de la República,
+11740,92.0,Luis Fernando Velasco Cháves,Liberal Colombiano,Senado de la República,
+11740,112.0,Roy Leonardo Barreras Montealegre,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+11740,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,
+11740,1804.0,Jorge Eduardo Londoño Ulloa,Alianza Verde,Senado de la República,
+11740,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+11740,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+11740,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+11740,12921.0,Esperanza Andrade Serrano,Conservador Colombiano,Senado de la República,
+11740,13660.0,Aída Yolanda Avella Esquivel,Coalición Lista de la Decencia,Senado de la República,
+11740,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+11740,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+11740,13979.0,José Aulo Polo Narváez,Alianza Verde,Senado de la República,Nariño
+10863,811.0,Gustavo Francisco Petro Urrego,Colombia Humana,Senado de la República,
+10863,13064.0,Feliciano Valencia Medina,MAIS - Movimiento Alternativo Indígena y Social,Senado de la República,Comunidades Indígenas
+10863,13649.0,Gustavo Bolívar Moreno,Coalición Lista de la Decencia,Senado de la República,
+10863,13660.0,Aída Yolanda Avella Esquivel,Coalición Lista de la Decencia,Senado de la República,
+10841,7470.0,Nicolás Albeiro Echeverry Alvarán,Conservador Colombiano,Cámara de Representantes,Antioquia
+10841,7647.0,Andrés Cristo Bustos,Liberal Colombiano,Senado de la República,
+10841,2084.0,Alejandro Carlos Chacón Camargo,Liberal Colombiano,Cámara de Representantes,Norte de Santander
+10841,2097.0,Temístocles Ortega Narváez,Cambio Radical,Senado de la República,
+10841,7437.0,Ciro Fernández Núñez,Cambio Radical,Cámara de Representantes,Santander
+10841,12994.0,Jairo Humberto Cristo Correa,Cambio Radical,Cámara de Representantes,Norte de Santander
+10841,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+10841,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+10841,1804.0,Jorge Eduardo Londoño Ulloa,Alianza Verde,Senado de la República,
+10841,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+8616,914.0,Guillermo Antonio Santos Marin,Liberal Colombiano,Senado de la República,Tolima
+8616,256.0,Jaime Armando Yepes Martínez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Tolima
+8616,197.0,Hector  Javier Osorio Botello,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Huila
+8616,7337.0,Wilson Córdoba Mena,Centro Democrático,Cámara de Representantes,Antioquia
+8616,9417.0,Everth Bustamante Garcia,Centro Democrático,Senado de la República,Antioquia
+8616,9562.0,Susana Correa Borrero,Centro Democrático,Senado de la República,Antioquia
+8616,9488.0,Paola Andrea Holguín Moreno,Centro Democrático,Senado de la República,Antioquia
+8616,77.0,Jorge Enrique Robledo Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Distrito Capital
+8616,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+8616,7356.0,Victor Javier Correa Velez,PDA - Polo Democrático Alternativo,Cámara de Representantes,Antioquia
+8616,8355.0,Jorge Elieser Prieto Riveros,Alianza Verde,Senado de la República,Casanare
+8616,183.0,Rosmery Martinez Rosales,Cambio Radical,Senado de la República,Tolima
+8616,7652.0,Sofia Alejandra Gaviria Correa,Liberal Colombiano,Senado de la República,Antioquia
+8616,40.0,Guillermo García Realpe,Liberal Colombiano,Senado de la República,Nariño
+8616,7839.0,Ángel María Gaitán Pulido,Liberal Colombiano,Cámara de Representantes,Tolima
+8616,507.0,Jaime Enrique Durán Barrera,Liberal Colombiano,Senado de la República,Santander
+8616,2238.0,Edinson Delgado Ruiz,Liberal Colombiano,Senado de la República,Valle del Cauca
+8616,7647.0,Andrés Cristo Bustos,Liberal Colombiano,Senado de la República,Norte de Santander
+8616,9.0,Alvaro Antonio Ashton Giraldo,Liberal Colombiano,Senado de la República,Atlántico
+7042,38.0,Juan Manuel Galan Pachon,Liberal Colombiano,Senado de la República,Distrito Capital
+7042,2233.0,Eugenio Enrique Prieto Soto,Liberal Colombiano,Senado de la República,Antioquia
+3838,310.0,Carlos Salvador Albornoz Guerrero,Conservador Colombiano,Senado de la República,Nariño
+3691,809.0,Oscar Darío Pérez Pineda,Equipo Colombia,Cámara de Representantes,Antioquia
+3691,341.0,Oscar Alberto Arboleda Palacio,Equipo Colombia,Cámara de Representantes,Antioquia
+2101,809.0,Oscar Darío Pérez Pineda,Equipo Colombia,Cámara de Representantes,Antioquia
+2101,341.0,Oscar Alberto Arboleda Palacio,Equipo Colombia,Cámara de Representantes,Antioquia
+15940,9193.0,Franklin del Cristo Lozano de la Ossa,Conservador Colombiano,Cámara de Representantes,Magdalena
+15940,14679.0,Delcy Esperanza Isaza Buenaventura,Conservador Colombiano,Cámara de Representantes,Tolima
+15940,14848.0,Daniel Felipe Briceño Montes,Centro Democrático,Cámara de Representantes,Distrito Capital
+15940,14849.0,David Gerardo Cote Rodríguez,Centro Democrático,Cámara de Representantes,Distrito Capital
+15940,14864.0,Manuel Orlando Correa Bedoya,ASI - Alianza Social Independiente,Cámara de Representantes,Caldas
+15940,14880.0,Daniel Felipe Bernal Montealegre,Demócrata Colombiano,Cámara de Representantes,Cundinamarca
+15940,14912.0,Guillermo León Blanco Valencia,Conservador Colombiano,Cámara de Representantes,Santander
+15652,2395.0,Iván Cepeda Castro,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+15652,12409.0,Renzo Alexánder García Parra,Pacto Verde por el Tolima,Cámara de Representantes,Tolima
+15652,12555.0,David Ricardo Racero Mayorca,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+15652,13540.0,Carlos Alberto Benavides Mora,Pacto Histórico Coalición,Senado de la República,Nariño
+15652,14649.0,Yuly Esmeralda Hernández Silva,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+15652,14634.0,Erick Adrian Velasco Burbano,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+15652,14771.0,Ferney Silva Idrobo,Pacto Histórico Coalición,Senado de la República,Valle del Cauca
+15652,14853.0,Laura Daniela 'Lalis' Beltrán Palomares,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15652,14871.0,Luz Miryan Moncayo,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+15652,14875.0,Alexandra Pineda Ortiz,Pacto Histórico Coalición,Cámara de Representantes,Cesar
+15652,14898.0,Rosita Rosaurina Guevara Rosero,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+15652,14904.0,Miguel Ángel Rubio Bravo,Pacto Verde Putumayo,Cámara de Representantes,Putumayo
+15652,14920.0,Carlos Eduardo Arizabaleta Corral,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+15652,14921.0,Paola Andrea Quiñones D´Haro,Pacto Histórico Coalición,Cámara de Representantes,Valle del Cauca
+15628,107.0,Fabio Raúl Amín Saleme,Liberal Colombiano,Senado de la República,Córdoba
+15628,9129.0,Óscar Hernán Sánchez León,Liberal Colombiano,Senado de la República,Cundinamarca
+15628,14334.0,Álvaro Henry Monedero Rivera,Liberal Colombiano,Senado de la República,Valle del Cauca
+15628,14822.0,Alix Yirley Vargas Torrado,Liberal Colombiano,Senado de la República,Norte de Santander
+15628,14825.0,Santiago Montoya Montoya,Liberal Colombiano,Senado de la República,Antioquia
+15304,1172.0,Mauricio Parodi Díaz,Cambio Radical Colombia Justa Libres Coalición,Cámara de Representantes,Antioquia
+15205,14751.0,Diógenes Quintero Amaya,Asofadhaca - Asociación de Familias Desplazadas de Hacarí,Cámara de Representantes,Norte de Santander
+15168,2130.0,Julio Cesar Estrada Cordero,Pacto Histórico Coalición,Senado de la República,
+15168,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15168,9370.0,Gildardo Silva Molina,Pacto Histórico Coalición,Cámara de Representantes,
+15168,14622.0,Gabriel Becerra Yañez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15168,14627.0,Pedro José Suárez Vacca,Pacto Histórico Coalición,Cámara de Representantes,Boyacá
+15168,14629.0,Eduard Giovanny Sarmiento Hidalgo,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+15168,14633.0,Gabriel Ernesto Parrado Durán,Pacto Histórico Coalición,Cámara de Representantes,Meta
+15168,14743.0,Jahel Quiroga Carrillo,Pacto Histórico Coalición,Senado de la República,Tolima
+15168,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+15168,14621.0,María Fernanda Carrascal Rojas,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15168,14634.0,Erick Adrian Velasco Burbano,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+15168,14635.0,Jorge Andrés Cancimance López,Pacto Histórico Coalición,Cámara de Representantes,Putumayo
+15168,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+14849,12918.0,Soledad Tamayo Tamayo,Conservador Colombiano,Senado de la República,Distrito Capital
+14605,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+14605,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+14605,12860.0,Olga Beatriz Gonzalez Correa,Liberal Colombiano,Cámara de Representantes,Tolima
+14605,13420.0,Sandra Ramírez Lobo Silva,Comunes,Senado de la República,Santander
+14605,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+14605,14622.0,Gabriel Becerra Yañez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+14605,14624.0,María del Mar Pizarro García,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+14605,14634.0,Erick Adrian Velasco Burbano,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+14605,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+14605,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+14605,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+14605,14724.0,Imelda Daza Cotes,Comunes,Senado de la República,Distrito Capital
+14605,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+14605,14635.0,Jorge Andrés Cancimance López,Pacto Histórico Coalición,Cámara de Representantes,Putumayo
+14605,14716.0,Martha Lisbeth Alfonso Jurado,Pacto Histórico Coalición,Cámara de Representantes,Tolima
+13925,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Cámara de Representantes,Antioquia
+13925,14657.0,Jonathan Ferney Jota Pe Pulido Hernández,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13925,14674.0,Ruth Amelia Caicedo Rosero,Conservador Colombiano,Cámara de Representantes,Nariño
+13925,14707.0,Marelen Castillo Torres,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13925,14708.0,Erika Tatiana Sánchez Pinto,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13925,14709.0,Juan Manuel Cortés Dueñas,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13925,14737.0,Wilder Iberson Escobar Ortiz,Gente en movimiento,Cámara de Representantes,Caldas
+13925,14741.0,Ana Rogelia Monsalve Alvarez,MISCA - Consejo Comunitario de Comunidades Negras Palenque Vereda Las Trescientas y Galapa,Cámara de Representantes,Atlántico
+13925,14761.0,James Hermenegildo Mosquera Torres,Consejo Comunitario Mayor de Novita (Cocoman),Cámara de Representantes,Chocó
+13828,14628.0,Ermes Evelio Pete Vivas,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+13828,14629.0,Eduard Giovanny Sarmiento Hidalgo,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+13828,14633.0,Gabriel Ernesto Parrado Durán,Pacto Histórico Coalición,Cámara de Representantes,Meta
+13828,14635.0,Jorge Andrés Cancimance López,Pacto Histórico Coalición,Cámara de Representantes,Putumayo
+13828,14745.0,Jorge Hernán Bastidas Rosero,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+13828,14750.0,Juan Pablo Salazar Rivera,Asointec - Asociacion Agropecuaria y Campesina,Cámara de Representantes,Cauca
+13828,14754.0,Karen Astrith Manrique Olarte,Asvinreg - Asociación de Víctimas Intercultural y Regional,Cámara de Representantes,Arauca
+13828,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+13828,14759.0,Jhon Fredi Valencia Caicedo,Consejo Comunitario Los Andes,Cámara de Representantes,Putumayo
+13821,6057.0,Astrid Sánchez Montes De Oca,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Chocó
+13821,12999.0,Julián Peinado Ramírez,Liberal Colombiano,Cámara de Representantes,Antioquia
+13821,14605.0,Dolcey Óscar Torres Romero,Liberal Colombiano,Cámara de Representantes,Atlántico
+13821,14608.0,Gilma Diaz Arias,Liberal Colombiano,Cámara de Representantes,Caquetá
+13821,14609.0,Hugo Alfonso Archila Suárez,Liberal Colombiano,Cámara de Representantes,Casanare
+13821,14611.0,Jhoany Carlos Alberto Palacios Mosquera,Liberal Colombiano,Cámara de Representantes,Chocó
+13821,14613.0,Piedad Correal Rubiano,Liberal Colombiano,Cámara de Representantes,Quindío
+13821,14616.0,Alvaro Leonel Rueda Caballero,Liberal Colombiano,Cámara de Representantes,Santander
+13821,14617.0,Karyme Adrana Cotes Martínez,Liberal Colombiano,Cámara de Representantes,Sucre
+13821,14676.0,Luis Eduardo Díaz Mateus,Conservador Colombiano,Cámara de Representantes,Santander
+13821,14685.0,Hugo Danilo Lozano Pimiento,Centro Democrático,Cámara de Representantes,Vaupés
+13821,14694.0,Ana Paola García Soto,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Córdoba
+13821,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+13821,14734.0,Carlos Felipe Quintero Ovalle,Partido Liberal Colombia Justa Libres Coalición,Cámara de Representantes,Cesar
+13821,14767.0,Luis Carlos Ochoa Tobón,Liberal Colombiano,Cámara de Representantes,Antioquia
+13667,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13667,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+13667,12337.0,Elizabeth Jaypang Díaz,Liberal Colombiano,Cámara de Representantes,San Andrés y Providencia
+13667,12605.0,Yenica Sugein Acosta Infante,Centro Democrático,Cámara de Representantes,Amazonas
+13667,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+13667,13540.0,Carlos Alberto Benavides Mora,Pacto Histórico Coalición,Senado de la República,Nariño
+13667,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13667,14644.0,Martha Isabel Peralta	Epieyu,Pacto Histórico Coalición,Senado de la República,La Guajira
+13667,14611.0,Jhoany Carlos Alberto Palacios Mosquera,Liberal Colombiano,Cámara de Representantes,Chocó
+13667,14615.0,Anibal Gustavo Hoyos Franco,Liberal Colombiano,Cámara de Representantes,Risaralda
+13667,14622.0,Gabriel Becerra Yañez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13667,14624.0,María del Mar Pizarro García,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13667,14625.0,Heráclito Landinez Suárez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13667,14627.0,Pedro José Suárez Vacca,Pacto Histórico Coalición,Cámara de Representantes,Boyacá
+13667,14628.0,Ermes Evelio Pete Vivas,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+13667,14629.0,Eduard Giovanny Sarmiento Hidalgo,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+13667,14630.0,Leider Alexandra Vásquez Ochoa,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+13667,14634.0,Erick Adrian Velasco Burbano,Pacto Histórico Coalición,Cámara de Representantes,Nariño
+13667,14635.0,Jorge Andrés Cancimance López,Pacto Histórico Coalición,Cámara de Representantes,Putumayo
+13667,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13667,14701.0,Wilmer Yair Castellanos Hernández,Alianza Verde,Cámara de Representantes,Boyacá
+13667,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+13667,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+13667,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13667,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13667,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+13667,14716.0,Martha Lisbeth Alfonso Jurado,Pacto Histórico Coalición,Cámara de Representantes,Tolima
+13667,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+13667,14761.0,James Hermenegildo Mosquera Torres,Consejo Comunitario Mayor de Novita (Cocoman),Cámara de Representantes,Chocó
+13667,14767.0,Luis Carlos Ochoa Tobón,Liberal Colombiano,Cámara de Representantes,Antioquia
+13357,7635.0,José Jaime Uscátegui Pastrana,Centro Democrático,Cámara de Representantes,Distrito Capital
+13357,14707.0,Marelen Castillo Torres,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13357,14708.0,Erika Tatiana Sánchez Pinto,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13357,14709.0,Juan Manuel Cortés Dueñas,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13357,14741.0,Ana Rogelia Monsalve Alvarez,MISCA - Consejo Comunitario de Comunidades Negras Palenque Vereda Las Trescientas y Galapa,Cámara de Representantes,Atlántico
+13357,14752.0,Gerson Lisímaco Montaño Arizala,Recompas - Corporación Red de Consejos Comunitarios de Comunidades Negras del Pacífico Sur,Cámara de Representantes,Nariño
+13357,14757.0,Orlando Castillo Advíncula,Consejo Comunitario de la Cuenca del Río Naya,Cámara de Representantes,Valle del Cauca
+13168,276.0,Andres Felipe Guerra Hoyos,Centro Democrático,Senado de la República,Antioquia
+13168,1522.0,Germán Alcides Blanco Álvarez,Conservador Colombiano,Senado de la República,Antioquia
+13168,7312.0,María Fernanda Cabal Molina,Centro Democrático,Senado de la República,Valle del Cauca
+13168,7739.0,Inti Raúl Asprilla Reyes,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13168,8467.0,Nadia Georgette Blel Scaff,Conservador Colombiano,Senado de la República,Bolívar
+13168,9488.0,Paola Andrea Holguín Moreno,Centro Democrático,Senado de la República,Antioquia
+13168,9537.0,Honorio Miguel Henríquez Pinedo,Centro Democrático,Senado de la República,Magdalena
+13168,12669.0,José Vicente Carreño Castro,Centro Democrático,Senado de la República,Meta
+13168,13462.0,Esteban Quintero Cardona,Centro Democrático,Senado de la República,Antioquia
+13168,13859.0,Yenny Esperanza Rozo Zambrano,Centro Democrático,Senado de la República,Cundinamarca
+13168,13873.0,Carlos Manuel Meisel Vergara,Centro Democrático,Senado de la República,Atlántico
+13168,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13168,14290.0,Jose Alfredo Marin Lozano,Conservador Colombiano,Senado de la República,Santander
+13168,14645.0,Pedro Hernando Flórez Porras,Pacto Histórico Coalición,Senado de la República,Atlántico
+13168,14650.0,Marcos Daniel Pineda García,Conservador Colombiano,Senado de la República,Córdoba
+13168,14721.0,Josué Alirio Barrera Rodríguez,Centro Democrático,Senado de la República,Santander
+13074,14675.0,Juan Daniel Peñuela Calvache,Conservador Colombiano,Cámara de Representantes,Nariño
+12922,6057.0,Astrid Sánchez Montes De Oca,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Chocó
+12922,7635.0,José Jaime Uscátegui Pastrana,Centro Democrático,Cámara de Representantes,Distrito Capital
+12922,7703.0,Beatriz Lorena Rios Cuellar,MIRA - Colombia Justa Libres,Senado de la República,Distrito Capital
+12922,9387.0,Flora Perdomo Andrade,Liberal Colombiano,Cámara de Representantes,Huila
+12922,14711.0,Clara Eugenia López Obregón,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+12922,14630.0,Leider Alexandra Vásquez Ochoa,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+12922,14663.0,Luis Miguel López Aristizábal,Conservador Colombiano,Cámara de Representantes,Antioquia
+12922,14674.0,Ruth Amelia Caicedo Rosero,Conservador Colombiano,Cámara de Representantes,Nariño
+12922,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+12922,14707.0,Marelen Castillo Torres,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12922,14708.0,Erika Tatiana Sánchez Pinto,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12922,14709.0,Juan Manuel Cortés Dueñas,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+12922,14720.0,Miguel Uribe Turbay,Centro Democrático,Senado de la República,Distrito Capital
+12493,12771.0,Carlos Alberto Sergio Carreño Marín,Comunes,Cámara de Representantes,Distrito Capital
+12493,12827.0,Luis Alberto Albán Urbano,Comunes,Cámara de Representantes,Valle del Cauca
+12493,13417.0,Pablo Catatumbo Torres Victoria,Comunes,Senado de la República,Valle del Cauca
+12493,13419.0,Julián Gallo Cubillos,Comunes,Senado de la República,Distrito Capital
+12493,13420.0,Sandra Ramírez Lobo Silva,Comunes,Senado de la República,Santander
+12493,13451.0,Germán José Gómez López,Comunes,Cámara de Representantes,Atlántico
+12493,13507.0,Omar De Jesús Olmedo Restrepo Correa,Comunes,Senado de la República,Antioquia
+12493,14331.0,Jairo Reinaldo Cala Suárez,Comunes,Cámara de Representantes,Santander
+12493,14706.0,Pedro Baracutao García Ospina,Comunes,Cámara de Representantes,Antioquia
+12493,14724.0,Imelda Daza Cotes,Comunes,Senado de la República,Distrito Capital
+12394,14633.0,Gabriel Ernesto Parrado Durán,Pacto Histórico Coalición,Cámara de Representantes,Meta
+12002,2255.0,Héctor Javier Vergara Sierra,Cambio Radical,Cámara de Representantes,Sucre
+12002,8921.0,Modesto Enrique Aguilera Vides,Cambio Radical,Cámara de Representantes,Atlántico
+12002,9537.0,Honorio Miguel Henríquez Pinedo,Centro Democrático,Senado de la República,Magdalena
+12002,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+12002,12290.0,Wadith Alberto Manzur Imbett,Conservador Colombiano,Cámara de Representantes,Córdoba
+12002,13928.0,César Augusto Lorduy Maldonado,Cambio Radical,Cámara de Representantes,Atlántico
+11781,7315.0,Edward David Rodríguez Rodríguez,Centro Democrático,Cámara de Representantes,Distrito Capital
+11781,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+11781,12443.0,Adriana Magali Matiz Vargas,Conservador Colombiano,Cámara de Representantes,Tolima
+11781,12538.0,Alejandro Alberto Vega Pérez,Liberal Colombiano,Cámara de Representantes,Meta
+11781,13054.0,Gabriel Santos García,Centro Democrático,Cámara de Representantes,Distrito Capital
+11781,13162.0,Luvi Katherine Miranda Peña,Alianza Verde,Cámara de Representantes,Distrito Capital
+11781,13164.0,Juanita María Goebertus Estrada,Alianza Verde,Cámara de Representantes,Distrito Capital
+11781,13242.0,John Jairo Hoyos García,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+11781,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+11781,13594.0,José Daniel López Jiménez,Cambio Radical,Cámara de Representantes,Distrito Capital
+11781,13638.0,Juan Carlos Wills Ospina,Conservador Colombiano,Cámara de Representantes,Distrito Capital
+11781,13948.0,Catalina Ortiz Lalinde,Alianza Verde,Cámara de Representantes,Valle del Cauca
+11781,14399.0,Carlos Adolfo Ardila Espinosa,Liberal Colombiano,Cámara de Representantes,Putumayo
+11677,77.0,Jorge Enrique Robledo Castillo,Dignidad,Senado de la República,
+11677,112.0,Roy Leonardo Barreras Montealegre,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+11677,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,
+11677,1178.0,Roosvelt Rodríguez Rengifo,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+11677,1804.0,Jorge Eduardo Londoño Ulloa,Alianza Verde,Senado de la República,
+11677,2097.0,Temístocles Ortega Narváez,Cambio Radical,Senado de la República,
+11677,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+11677,2395.0,Iván Cepeda Castro,PDA - Polo Democrático Alternativo,Senado de la República,
+11677,2533.0,Wilson Neber Arias Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+11677,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+11677,7647.0,Andrés Cristo Bustos,Liberal Colombiano,Senado de la República,
+11677,7677.0,Harry Giovanny González García,Liberal Colombiano,Cámara de Representantes,Caquetá
+11677,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+11677,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+11677,7739.0,Inti Raúl Asprilla Reyes,Alianza Verde,Cámara de Representantes,Distrito Capital
+11677,7969.0,Jesús Alberto Castilla Salazar,PDA - Polo Democrático Alternativo,Senado de la República,
+11677,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+11677,12555.0,David Ricardo Racero Mayorca,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+11677,12582.0,María José Pizarro Rodríguez,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+11677,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+11677,12771.0,Carlos Alberto Sergio Carreño Marín,Comunes,Cámara de Representantes,Distrito Capital
+11677,12805.0,César Augusto Pachón Achury,MAIS - Movimiento Alternativo Indígena y Social,Cámara de Representantes,Boyacá
+11677,12827.0,Luis Alberto Albán Urbano,Comunes,Cámara de Representantes,Valle del Cauca
+11677,12999.0,Julián Peinado Ramírez,Liberal Colombiano,Cámara de Representantes,Antioquia
+11677,13064.0,Feliciano Valencia Medina,MAIS - Movimiento Alternativo Indígena y Social,Senado de la República,Comunidades Indígenas
+11677,13150.0,León Fredy Muñoz Lopera,Alianza Verde,Cámara de Representantes,Antioquia
+11677,13285.0,Jorge Alberto Gómez Gallego,Dignidad,Cámara de Representantes,Antioquia
+11677,13417.0,Pablo Catatumbo Torres Victoria,Comunes,Senado de la República,
+11677,13418.0,Victoria Sandino Simanca Herrera,Comunes,Senado de la República,
+11677,13419.0,Julián Gallo Cubillos,Comunes,Senado de la República,
+11677,13420.0,Sandra Ramírez Lobo Silva,Comunes,Senado de la República,
+11677,13421.0,Israel Alberto Zúñiga Iriarte,Comunes,Senado de la República,
+11677,13507.0,Omar De Jesús Olmedo Restrepo Correa,Comunes,Cámara de Representantes,Antioquia
+11677,13649.0,Gustavo Bolívar Moreno,Coalición Lista de la Decencia,Senado de la República,
+11677,13660.0,Aída Yolanda Avella Esquivel,Coalición Lista de la Decencia,Senado de la República,
+11677,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+11677,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+11677,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+11677,14331.0,Jairo Reinaldo Cala Suárez,Comunes,Cámara de Representantes,Santander
+11677,14341.0,Abel David Jaramillo Largo,MAIS - Movimiento Alternativo Indígena y Social,Cámara de Representantes,Comunidades Indígenas
+11283,12290.0,Wadith Alberto Manzur Imbett,Conservador Colombiano,Cámara de Representantes,Córdoba
+11283,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+11283,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,La Guajira
+11283,809.0,Oscar Darío Pérez Pineda,Centro Democrático,Cámara de Representantes,Antioquia
+11283,14320.0,Edwin Gilberto Ballesteros Archila,Centro Democrático,Cámara de Representantes,Santander
+11283,2507.0,Jaime Rodríguez Contreras,Cambio Radical,Cámara de Representantes,Meta
+11283,2255.0,Héctor Javier Vergara Sierra,Cambio Radical,Cámara de Representantes,Sucre
+11025,2255.0,Héctor Javier Vergara Sierra,Cambio Radical,Cámara de Representantes,Sucre
+10188,2255.0,Héctor Javier Vergara Sierra,Cambio Radical,Cámara de Representantes,Sucre
+10188,13594.0,José Daniel López Jiménez,Cambio Radical,Cámara de Representantes,Distrito Capital
+10105,14341.0,Abel David Jaramillo Largo,MAIS - Movimiento Alternativo Indígena y Social,Cámara de Representantes,Comunidades Indígenas
+10105,12555.0,David Ricardo Racero Mayorca,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+10105,12582.0,María José Pizarro Rodríguez,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+10105,13660.0,Aída Yolanda Avella Esquivel,Coalición Lista de la Decencia,Senado de la República,
+10105,2533.0,Wilson Neber Arias Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+10105,13417.0,Pablo Catatumbo Torres Victoria,Comunes,Senado de la República,
+10105,13420.0,Sandra Ramírez Lobo Silva,Comunes,Senado de la República,
+10105,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+10105,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+10105,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+10105,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+9859,2255.0,Héctor Javier Vergara Sierra,Cambio Radical,Cámara de Representantes,Sucre
+9074,112.0,Roy Leonardo Barreras Montealegre,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Valle del Cauca
+7744,8112.0,Guillermina Bravo Montaño,MIRA,Cámara de Representantes,Valle del Cauca
+7744,7354.0,Carlos Eduardo Guevara Villabón,MIRA,Senado de la República,Distrito Capital
+7744,7554.0,Ana Paola Agudelo García,MIRA,Senado de la República,Extranjero
+7383,2279.0,Juan Francisco Lozano Ramirez,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Distrito Capital
+7265,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+7265,288.0,Carlos Alberto Baena Lopez,MIRA,Senado de la República,Distrito Capital
+7265,98.0,Manuel Antonio Virgüez Piraquive,MIRA,Senado de la República,Distrito Capital
+6504,1805.0,John Sudarsky Rosenbaum,Partido Verde,Senado de la República,Distrito Capital
+6434,1805.0,John Sudarsky Rosenbaum,Partido Verde,Senado de la República,Distrito Capital
+5997,98.0,Manuel Antonio Virgüez Piraquive,MIRA,Senado de la República,Distrito Capital
+5997,288.0,Carlos Alberto Baena Lopez,MIRA,Senado de la República,Distrito Capital
+5997,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+5695,98.0,Manuel Antonio Virgüez Piraquive,MIRA,Senado de la República,Distrito Capital
+5695,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+5695,288.0,Carlos Alberto Baena Lopez,MIRA,Senado de la República,Distrito Capital
+5695,60.0,Alexandra Moreno Piraquive,MIRA,Senado de la República,Distrito Capital
+5695,10.0,Luis Carlos Avellaneda Tarazona,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+3796,1009.0,Joaquin Jose Vives Perez,Liberal Colombiano,Cámara de Representantes,Magdalena
+3796,987.0,John Jairo Velasquez Cardenas,Liberal Colombiano,Cámara de Representantes,Risaralda
+3796,975.0,Luis Eduardo Vargas Moreno,Liberal Colombiano,Cámara de Representantes,Bolívar
+3796,928.0,Venus Albeiro Silva Gomez,MPC - Movimiento Participación Comunitaria,Cámara de Representantes,Distrito Capital
+3796,927.0,Zamir Eduardo Silva Amin,Liberal Colombiano,Cámara de Representantes,Boyacá
+3796,907.0,Jose Alvaro Sanchez Ortega,Liberal Colombiano,Senado de la República,Distrito Capital
+3796,906.0,Camilo Armando Sanchez Ortega,Liberal Colombiano,Senado de la República,Cundinamarca
+3796,866.0,Rodrigo Rivera Salazar,Liberal Colombiano,Senado de la República,Risaralda
+3796,75.0,Griselda Janeth Restrepo Gallego,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+3796,843.0,Pedro Maria Ramirez Ramirez,Coalición,Cámara de Representantes,Cundinamarca
+3796,209.0,Carlos Arturo Piedrahita Cardenas,Liberal Colombiano,Cámara de Representantes,Antioquia
+3796,792.0,Francisco Alfonso Fernando Pareja Gonzalez,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+3796,192.0,Carlos Germán Navas Talero,Movimiento Reconstrucción Democrática Nacional,Cámara de Representantes,Distrito Capital
+3796,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+3796,686.0,Oswaldo Dario Martinez Betancourt,Liberal Colombiano,Senado de la República,Nariño
+3796,643.0,Mauricio Jaramillo Martinez,Liberal Colombiano,Senado de la República,Tolima
+3796,591.0,Andres Gonzalez Diaz,Liberal Colombiano,Senado de la República,Cundinamarca
+3796,157.0,Jorge Homero Giraldo Gutierrez,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+3796,41.0,Jesus Ignacio Garcia Valencia,Liberal Colombiano,Cámara de Representantes,Cauca
+3796,505.0,Luis Fernando Duque Garcia,Liberal Colombiano,Cámara de Representantes,Antioquia
+3796,28.0,Juan Fernando Cristo Bustos,Liberal Colombiano,Senado de la República,Norte de Santander
+3796,14.0,Jesus Antonio Bernal Amorocho,Movimiento Independiente Frente de Esperanza,Senado de la República,Distrito Capital
+3796,9.0,Alvaro Antonio Ashton Giraldo,Liberal Colombiano,Cámara de Representantes,Atlántico
+3796,357.0,Edgar Artunduaga Sanchez,Liberal Colombiano,Senado de la República,Distrito Capital
+3796,323.0,Armando Amaya Alvarez,Coalición,Cámara de Representantes,Norte de Santander
+3796,312.0,Juan De Dios Alfonso Garcia,Liberal Colombiano,Cámara de Representantes,Santander
+2030,956.0,Jose Renan Trujillo Garcia,Liberal Colombiano,Senado de la República,Valle del Cauca
+1539,505.0,Luis Fernando Duque Garcia,Liberal Colombiano,Senado de la República,Antioquia
+1056,98.0,Manuel Antonio Virgüez Piraquive,MIRA,Senado de la República,Distrito Capital
+1056,60.0,Alexandra Moreno Piraquive,MIRA,Senado de la República,Distrito Capital
+1056,10.0,Luis Carlos Avellaneda Tarazona,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+1056,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+5368,834.0,Ruben Dario Quintero Villada,Liberal Colombiano,Cámara de Representantes,Antioquia
+4625,956.0,Jose Renan Trujillo Garcia,Liberal Colombiano,Senado de la República,Valle del Cauca
+4278,956.0,Jose Renan Trujillo Garcia,Liberal Colombiano,Senado de la República,Valle del Cauca
+8728,8513.0,Leon Rigoberto Baron Neira,Centro Democrático,Senado de la República,Antioquia
+8728,4.0,Hernan Francisco Andrade Serrano,Conservador Colombiano,Senado de la República,Huila
+8728,74.0,Juan Carlos Restrepo Escobar,Cambio Radical,Senado de la República,Cundinamarca
+8728,66.0,Jorge Hernando Pedraza Gutierrez,Conservador Colombiano,Senado de la República,Boyacá
+8728,753.0,Antonio Jose Navarro Wolff,Alianza Verde,Senado de la República,Distrito Capital
+8728,2463.0,Teresita Garcia Romero,Opción Ciudadana,Senado de la República,Sucre
+8728,8474.0,Mario Alberto Fernández Alcocer,Liberal Colombiano,Senado de la República,Sucre
+8728,7647.0,Andrés Cristo Bustos,Liberal Colombiano,Senado de la República,Norte de Santander
+8728,9550.0,Orlando Castañeda Serrano,Centro Democrático,Senado de la República,Antioquia
+8728,122.0,Angel Custodio Cabrera Baez,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Distrito Capital
+8728,519.0,Manuel Mesias Enriquez Rosero,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Nariño
+7164,66.0,Jorge Hernando Pedraza Gutierrez,Conservador Colombiano,Senado de la República,Boyacá
+3479,1055.0,Carlos Roberto Ferro Solanilla,Somos Colombia,Senado de la República,Cundinamarca
+2396,60.0,Alexandra Moreno Piraquive,MIRA,Senado de la República,Distrito Capital
+1308,1202.0,Diego Alberto Naranjo Escobar,Conservador Colombiano,Cámara de Representantes,Risaralda
+14762,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13061,14266.0,Edwing Fabián Díaz Plata,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+9966,12805.0,César Augusto Pachón Achury,MAIS - Movimiento Alternativo Indígena y Social,Cámara de Representantes,Boyacá
+9966,14428.0,Néstor Leonardo Rico Rico,Cambio Radical,Cámara de Representantes,Cundinamarca
+9966,13185.0,Mónica María Raigoza Morales,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Antioquia
+9966,12587.0,Anatolio Hernández Lozano,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Guainía
+9966,12331.0,Jorge Méndez Hernández,Cambio Radical,Cámara de Representantes,San Andrés y Providencia
+9966,7335.0,Santiago Valencia González,Centro Democrático,Senado de la República,
+9966,9738.0,Eduardo Enrique Pulgar Daza,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+9966,9430.0,Carlos Felipe Mejía Mejía,Centro Democrático,Senado de la República,Caldas
+9966,2268.0,Carlos Abraham Jiménez López,Cambio Radical,Senado de la República,
+9966,7647.0,Andrés Cristo Bustos,Liberal Colombiano,Senado de la República,
+9966,13660.0,Aída Yolanda Avella Esquivel,Coalición Lista de la Decencia,Senado de la República,
+9966,1531.0,Laureano Augusto Acuña Díaz,Conservador Colombiano,Senado de la República,
+9966,13222.0,John Milton Rodríguez González,Colombia Justa Libres (Antes Movimiento Libres),Senado de la República,
+9966,1970.0,Miguel Ángel Pinto Hernández,Liberal Colombiano,Senado de la República,
+9770,77.0,Jorge Enrique Robledo Castillo,Dignidad,Senado de la República,
+9770,668.0,Alexánder López Maya,PDA - Polo Democrático Alternativo,Senado de la República,
+9770,7969.0,Jesús Alberto Castilla Salazar,PDA - Polo Democrático Alternativo,Senado de la República,
+9770,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+9770,13285.0,Jorge Alberto Gómez Gallego,Dignidad,Cámara de Representantes,Antioquia
+9709,12538.0,Alejandro Alberto Vega Pérez,Liberal Colombiano,Cámara de Representantes,Meta
+9709,8582.0,Rodrigo Arturo Rojas Lara,Liberal Colombiano,Cámara de Representantes,Boyacá
+9709,14357.0,Juan Fernando Reyes Kuri,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+9709,5479.0,John Jairo Cárdenas Morán,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Cauca
+9709,12395.0,Juan Carlos Reinales Agudelo,Liberal Colombiano,Cámara de Representantes,Risaralda
+9709,9387.0,Flora Perdomo Andrade,Liberal Colombiano,Cámara de Representantes,Huila
+9709,12999.0,Julián Peinado Ramírez,Liberal Colombiano,Cámara de Representantes,Antioquia
+9709,14284.0,Víctor Manuel Ortiz Joya,Liberal Colombiano,Cámara de Representantes,Santander
+9709,12337.0,Elizabeth Jaypang Díaz,Liberal Colombiano,Cámara de Representantes,San Andrés y Providencia
+9709,7677.0,Harry Giovanny González García,Liberal Colombiano,Cámara de Representantes,Caquetá
+9709,160.0,Edgar Alfonso Gómez Román,Liberal Colombiano,Cámara de Representantes,Santander
+9709,7793.0,Hernán Gustavo Estupiñán Calvache,Liberal Colombiano,Cámara de Representantes,Nariño
+9709,12855.0,Juan Diego Echavarría Sánchez,Liberal Colombiano,Cámara de Representantes,Antioquia
+9709,12452.0,José Luis Correa López,Liberal Colombiano,Cámara de Representantes,Caldas
+9709,12996.0,Henry Fernando Correal Herrera,Liberal Colombiano,Cámara de Representantes,Vaupés
+9709,7767.0,Nilton Córdoba Manyoma,Liberal Colombiano,Cámara de Representantes,Chocó
+9709,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+9709,2039.0,Carlos Julio Bonilla Soto,Liberal Colombiano,Cámara de Representantes,Cauca
+9709,8815.0,Alexánder Harley Bermúdez Lasso,Liberal Colombiano,Cámara de Representantes,Guaviare
+9709,14059.0,Fabio Fernando Arroyave Rivas,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+9709,8929.0,José Luis Pinedo Campo,Cambio Radical,Cámara de Representantes,Magdalena
+9606,3.0,Carlos Enrique Alvarado Chavez,,,
+9260,1170.0,Oscar De Jesus Hurtado Perez,,,
+9193,7334.0,Maria Regina Zuluaga Henao,Centro Democrático,Cámara de Representantes,Antioquia
+9193,9495.0,Ciro Alejandro Ramírez Cortés,Centro Democrático,Senado de la República,Boyacá
+9193,7337.0,Wilson Córdoba Mena,Centro Democrático,Cámara de Representantes,Antioquia
+9193,9428.0,Pierre Eugenio Garcia Jacquier,Centro Democrático,Cámara de Representantes,Tolima
+8960,7316.0,Samuel Alejandro Hoyos Mejia,Centro Democrático,Cámara de Representantes,Distrito Capital
+8960,8511.0,Fernando Nicolás Araújo Rumié,Centro Democrático,Senado de la República,Antioquia
+8913,1177.0,Heriberto Sanabria Astudillo,Conservador Colombiano,Cámara de Representantes,Valle del Cauca
+8824,1177.0,Heriberto Sanabria Astudillo,Conservador Colombiano,Cámara de Representantes,Valle del Cauca
+8770,7334.0,Maria Regina Zuluaga Henao,Centro Democrático,Cámara de Representantes,Antioquia
+8770,9554.0,Thania Vega De Plazas,Centro Democrático,Senado de la República,Antioquia
+8770,8439.0,Álvaro Uribe Velez,Centro Democrático,Senado de la República,Antioquia
+8770,8366.0,Alfredo Ramos Maya,Centro Democrático,Senado de la República,Antioquia
+8770,9495.0,Ciro Alejandro Ramírez Cortés,Centro Democrático,Senado de la República,Boyacá
+8770,9521.0,Álvaro Hernán Prada Artunduaga,Centro Democrático,Cámara de Representantes,Huila
+8770,809.0,Oscar Darío Pérez Pineda,Centro Democrático,Cámara de Representantes,Antioquia
+8770,9488.0,Paola Andrea Holguín Moreno,Centro Democrático,Senado de la República,Antioquia
+8770,9428.0,Pierre Eugenio Garcia Jacquier,Centro Democrático,Cámara de Representantes,Tolima
+8770,9562.0,Susana Correa Borrero,Centro Democrático,Senado de la República,Antioquia
+8770,9473.0,Daniel Alberto Cabrales Castillo,Centro Democrático,Senado de la República,Antioquia
+8770,9435.0,María Del Rosario Guerra De La Espriella,Centro Democrático,Senado de la República,Antioquia
+7315,50.0,Jorge Aurelio Iragorri Hormaza,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Cauca
+7315,2734.0,Iván Leonidas Name Vásquez,Partido Verde,Senado de la República,Distrito Capital
+7315,2462.0,Nerthink Mauricio Aguilar Hurtado,PIN - Partido de Integración Nacional,Senado de la República,Santander
+7315,88.0,Efrain Torrado Garcia,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Norte de Santander
+7315,4993.0,Doris Clemencia Vega Quiroz,PIN - Partido de Integración Nacional,Senado de la República,Santander
+7315,169.0,Hemel Hurtado Angulo,PIN - Partido de Integración Nacional,Senado de la República,Valle del Cauca
+7315,8.0,Samuel Benjamin Arrieta Buelvas,PIN - Partido de Integración Nacional,Senado de la República,
+7315,548.0,Honorio Galvis Aguilar,Liberal Colombiano,Senado de la República,Santander
+7315,100.0,Gabriel Ignacio Zapata Correa,Conservador Colombiano,Senado de la República,Antioquia
+7315,19.0,Bernabe Celis Carrillo,Cambio Radical,Senado de la República,Santander
+7315,38.0,Juan Manuel Galan Pachon,Liberal Colombiano,Senado de la República,Distrito Capital
+7315,47.0,Antonio Del Cristo Guerra De La Espriella,Cambio Radical,Senado de la República,Sucre
+7315,1177.0,Heriberto Sanabria Astudillo,Conservador Colombiano,Cámara de Representantes,Valle del Cauca
+7315,213.0,Augusto Posada Sanchez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Antioquia
+7315,2520.0,Holger Horacio Diaz Hernandez,PIN - Partido de Integración Nacional,Cámara de Representantes,Santander
+7315,1334.0,Rafael Romero Piñeros,Liberal Colombiano,Cámara de Representantes,Boyacá
+7315,182.0,Oscar De Jesus Marin,Liberal Colombiano,Cámara de Representantes,Antioquia
+7315,718.0,Jose Ignacio Mesa Betancur,Cambio Radical,Cámara de Representantes,Antioquia
+7315,2521.0,Didier Alberto Tavera Amado,PIN - Partido de Integración Nacional,Cámara de Representantes,Santander
+7315,2507.0,Jaime Rodríguez Contreras,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Meta
+7315,2083.0,Hugo Orlando Velasquez Jaramillo,Liberal Colombiano,Cámara de Representantes,Meta
+7315,1952.0,Victor Raul Yepes Florez,Liberal Colombiano,Cámara de Representantes,Antioquia
+7315,1292.0,Fernando De La Peña Marquez,PIN - Partido de Integración Nacional,Cámara de Representantes,Cesar
+3801,,,,,
+3801,115.0,Jose Ignacio Bermudez Sanchez,Coalición,Cámara de Representantes,Cundinamarca
+2421,906.0,Camilo Armando Sanchez Ortega,Liberal Colombiano,Senado de la República,Cundinamarca
+2199,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+15014,7696.0,Olga Lucía Velásquez Nieto,Alianza Verde,Cámara de Representantes,Distrito Capital
+15014,8815.0,Alexánder Harley Bermúdez Lasso,Liberal Colombiano,Cámara de Representantes,Guaviare
+15014,8921.0,Modesto Enrique Aguilera Vides,Cambio Radical,Cámara de Representantes,Atlántico
+15014,12771.0,Carlos Alberto Sergio Carreño Marín,Comunes,Cámara de Representantes,Distrito Capital
+15014,13660.0,Aída Yolanda Avella Esquivel,Pacto Histórico Coalición,Senado de la República,Boyacá
+15014,9370.0,Gildardo Silva Molina,Pacto Histórico Coalición,Cámara de Representantes,
+15014,14331.0,Jairo Reinaldo Cala Suárez,Comunes,Cámara de Representantes,Santander
+15014,14760.0,John Jairo González Agudelo,Ascabri -  Asociación de Desplazados del Municipio de Briceño,Cámara de Representantes,Antioquia
+14487,7696.0,Olga Lucía Velásquez Nieto,Alianza Verde,Cámara de Representantes,Distrito Capital
+14487,8815.0,Alexánder Harley Bermúdez Lasso,Liberal Colombiano,Cámara de Representantes,Guaviare
+14487,8921.0,Modesto Enrique Aguilera Vides,Cambio Radical,Cámara de Representantes,Atlántico
+14487,12771.0,Carlos Alberto Sergio Carreño Marín,Comunes,Cámara de Representantes,Distrito Capital
+14487,13660.0,Aída Yolanda Avella Esquivel,Pacto Histórico Coalición,Senado de la República,Boyacá
+14226,14768.0,Jorge Rodrigo Tovar Vélez,Pa Vida - Asociacion Paz Es Vida,Cámara de Representantes,Cesar
+14226,14749.0,Juan Carlos Vargas Soler,Aprocasur - Asociación de Productores de Cacao,Cámara de Representantes,Bolívar
+14226,14750.0,Juan Pablo Salazar Rivera,Asointec - Asociacion Agropecuaria y Campesina,Cámara de Representantes,Cauca
+14226,14751.0,Diógenes Quintero Amaya,Asofadhaca - Asociación de Familias Desplazadas de Hacarí,Cámara de Representantes,Norte de Santander
+14226,14752.0,Gerson Lisímaco Montaño Arizala,Recompas - Corporación Red de Consejos Comunitarios de Comunidades Negras del Pacífico Sur,Cámara de Representantes,Nariño
+14226,14754.0,Karen Astrith Manrique Olarte,Asvinreg - Asociación de Víctimas Intercultural y Regional,Cámara de Representantes,Arauca
+14226,14756.0,Luis Ramiro Ricardo Buelvas,Corporación Narrar para Vivir,Cámara de Representantes,Bolívar
+14226,14757.0,Orlando Castillo Advíncula,Consejo Comunitario de la Cuenca del Río Naya,Cámara de Representantes,Valle del Cauca
+14226,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+14226,14759.0,Jhon Fredi Valencia Caicedo,Consejo Comunitario Los Andes,Cámara de Representantes,Putumayo
+14226,14761.0,James Hermenegildo Mosquera Torres,Consejo Comunitario Mayor de Novita (Cocoman),Cámara de Representantes,Chocó
+14226,14762.0,Haiver Rincón Gutiérrez,Asvicnusaper - Asociación Víctimas Núcleo Santiago Pérez,Cámara de Representantes,Tolima
+13943,9370.0,Gildardo Silva Molina,Pacto Histórico Coalición,Cámara de Representantes,
+13943,14629.0,Eduard Giovanny Sarmiento Hidalgo,Pacto Histórico Coalición,Cámara de Representantes,Cundinamarca
+13943,14745.0,Jorge Hernán Bastidas Rosero,Pacto Histórico Coalición,Cámara de Representantes,Cauca
+13943,14749.0,Juan Carlos Vargas Soler,Aprocasur - Asociación de Productores de Cacao,Cámara de Representantes,Bolívar
+13943,14750.0,Juan Pablo Salazar Rivera,Asointec - Asociacion Agropecuaria y Campesina,Cámara de Representantes,Cauca
+13943,14752.0,Gerson Lisímaco Montaño Arizala,Recompas - Corporación Red de Consejos Comunitarios de Comunidades Negras del Pacífico Sur,Cámara de Representantes,Nariño
+13943,14754.0,Karen Astrith Manrique Olarte,Asvinreg - Asociación de Víctimas Intercultural y Regional,Cámara de Representantes,Arauca
+13943,14758.0,William Ferney Aljure Martínez,Asocamproariari - Asociación de Campesinos Productores del Bajo Ariari,Cámara de Representantes,Meta
+13943,14759.0,Jhon Fredi Valencia Caicedo,Consejo Comunitario Los Andes,Cámara de Representantes,Putumayo
+13943,14760.0,John Jairo González Agudelo,Ascabri -  Asociación de Desplazados del Municipio de Briceño,Cámara de Representantes,Antioquia
+11197,12538.0,Alejandro Alberto Vega Pérez,Liberal Colombiano,Cámara de Representantes,Meta
+11197,7619.0,Nevardo Eneiro Rincón Vergara,Liberal Colombiano,Cámara de Representantes,Arauca
+11197,14284.0,Víctor Manuel Ortiz Joya,Liberal Colombiano,Cámara de Representantes,Santander
+11197,14282.0,Nubia López Morales,Liberal Colombiano,Cámara de Representantes,Santander
+11197,12337.0,Elizabeth Jaypang Díaz,Liberal Colombiano,Cámara de Representantes,San Andrés y Providencia
+11197,12996.0,Henry Fernando Correal Herrera,Liberal Colombiano,Cámara de Representantes,Vaupés
+11197,2039.0,Carlos Julio Bonilla Soto,Liberal Colombiano,Cámara de Representantes,Cauca
+11197,8815.0,Alexánder Harley Bermúdez Lasso,Liberal Colombiano,Cámara de Representantes,Guaviare
+11197,14357.0,Juan Fernando Reyes Kuri,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+11043,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+11043,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+11043,13150.0,León Fredy Muñoz Lopera,Alianza Verde,Cámara de Representantes,Antioquia
+11043,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+11043,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+11043,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+11043,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+11043,8162.0,Sandra Liliana Ortiz Nova,Alianza Verde,Senado de la República,
+10861,14266.0,Edwing Fabián Díaz Plata,Coalición Alternativa Santandereana,Cámara de Representantes,Santander
+10861,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+10861,8162.0,Sandra Liliana Ortiz Nova,Alianza Verde,Senado de la República,
+10861,2734.0,Iván Leonidas Name Vásquez,Alianza Verde,Senado de la República,
+10861,13150.0,León Fredy Muñoz Lopera,Alianza Verde,Cámara de Representantes,Antioquia
+10861,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+10861,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+10861,7688.0,Juan Luis Castro Córdoba,Alianza Verde,Senado de la República,
+8952,9192.0,Fredy Antonio Anaya Martinez,Opción Ciudadana,Cámara de Representantes,Santander
+8605,9192.0,Fredy Antonio Anaya Martinez,Opción Ciudadana,Cámara de Representantes,Santander
+3778,653.0,Gustavo Adolfo Lanzziano Molano,Liberal Colombiano,Cámara de Representantes,Boyacá
+3701,920.0,Leonor Serrano De Camargo,Somos Colombia,Senado de la República,Cundinamarca
+3360,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+3341,922.0,Luis Antonio Serrano Morales,Coalición,Cámara de Representantes,Caquetá
+3341,578.0,Luis Humberto Gomez Gallo,Conservador Colombiano,Senado de la República,Tolima
+3222,922.0,Luis Antonio Serrano Morales,Coalición,Cámara de Representantes,Caquetá
+3222,578.0,Luis Humberto Gomez Gallo,Conservador Colombiano,Senado de la República,Tolima
+2770,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+2508,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+2339,922.0,Luis Antonio Serrano Morales,Coalición,Cámara de Representantes,Caquetá
+2339,578.0,Luis Humberto Gomez Gallo,Conservador Colombiano,Senado de la República,Tolima
+2328,734.0,Carlos Moreno De Caro,Dejen Jugar Al Moreno,Senado de la República,Distrito Capital
+2037,578.0,Luis Humberto Gomez Gallo,Conservador Colombiano,Senado de la República,Tolima
+2027,956.0,Jose Renan Trujillo Garcia,Liberal Colombiano,Senado de la República,Valle del Cauca
+2027,906.0,Camilo Armando Sanchez Ortega,Liberal Colombiano,Senado de la República,Cundinamarca
+2027,866.0,Rodrigo Rivera Salazar,Liberal Colombiano,Senado de la República,Risaralda
+2027,74.0,Juan Carlos Restrepo Escobar,Nuevo Liberalismo,Senado de la República,Cundinamarca
+2027,591.0,Andres Gonzalez Diaz,Liberal Colombiano,Senado de la República,Cundinamarca
+2027,28.0,Juan Fernando Cristo Bustos,Liberal Colombiano,Senado de la República,Norte de Santander
+2027,339.0,Alvaro Araujo Castro,Alternativa de Avance Social Alas,Senado de la República,Chocó
+5616,87.0,Dilian Francisca Toro Torres,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Valle del Cauca
+5616,7.0,Ricardo Arias Mora,Partido de la U - Partido de la Unión por la Gente,Senado de la República,Quindío
+5616,875.0,Milton Arlex Rodriguez Sarmiento,Conservador Colombiano,Senado de la República,Cundinamarca
+5616,16.0,Javier Enrique Caceres Leal,Cambio Radical,Senado de la República,Bolívar
+5616,1248.0,Alfonso Nuñez Lapeira,Conservador Colombiano,Senado de la República,Antioquia
+5616,8.0,Samuel Benjamin Arrieta Buelvas,Convergencia Ciudadana,Senado de la República,Distrito Capital
+5616,11.0,Jorge Eliecer Ballesteros Bernier,Alas Equipo Colombia,Senado de la República,La Guajira
+5616,53.0,Rodrigo Lara Restrepo,Cambio Radical,Senado de la República,Huila
+5616,646.0,Pedro Antonio Jimenez Salazar,Conservador Colombiano,Cámara de Representantes,Antioquia
+5616,255.0,Zaida Marina Yanet Lindarte,Conservador Colombiano,Cámara de Representantes,Norte de Santander
+5616,836.0,Elias Raad Hernandez,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Bolívar
+5616,114.0,Eduardo Augusto Benitez Maldonado,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Norte de Santander
+1004,1170.0,Oscar De Jesus Hurtado Perez,Liberal Colombiano,Cámara de Representantes,Antioquia
+5399,181.0,Jorge Humberto Mantilla Serrano,Movimiento Nacional Conservador-Partido Conservador,Cámara de Representantes,Santander
+4750,498.0,Ivan Diaz Mateus,Conservador Colombiano-Pop.Col,Cámara de Representantes,Santander
+4597,578.0,Luis Humberto Gomez Gallo,Conservador Colombiano,Senado de la República,Tolima
+4385,578.0,Luis Humberto Gomez Gallo,Conservador Colombiano,Senado de la República,Tolima
+4085,498.0,Ivan Diaz Mateus,Conservador Colombiano-Pop.Col,Cámara de Representantes,Santander
+9924,8637.0,Elbert Díaz Lozano,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+9924,12331.0,Jorge Méndez Hernández,Cambio Radical,Cámara de Representantes,San Andrés y Providencia
+9924,12827.0,Luis Alberto Albán Urbano,Comunes,Cámara de Representantes,Valle del Cauca
+9924,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+9924,2448.0,Ángela María Robledo Gómez,Colombia Humana,Cámara de Representantes,
+9924,251.0,Germán Varón Cotrino,Cambio Radical,Senado de la República,
+9924,12582.0,María José Pizarro Rodríguez,Coalición Lista de la Decencia,Cámara de Representantes,Distrito Capital
+9924,192.0,Carlos Germán Navas Talero,PDA - Polo Democrático Alternativo,Cámara de Representantes,Distrito Capital
+6776,1894.0,Alfonso Prada Gil,Partido Verde,Cámara de Representantes,Distrito Capital
+6776,1803.0,Gilma Jimenez Gomez,Partido Verde,Senado de la República,Distrito Capital
+6776,1804.0,Jorge Eduardo Londoño Ulloa,Partido Verde,Senado de la República,Boyacá
+6776,1805.0,John Sudarsky Rosenbaum,Partido Verde,Senado de la República,Distrito Capital
+6776,1912.0,Carlos Andres Amaya Rodriguez,Partido Verde,Cámara de Representantes,Boyacá
+6776,251.0,Germán Varón Cotrino,Cambio Radical,Cámara de Representantes,Distrito Capital
+6776,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,La Guajira
+6776,862.0,Guillermo Abel Rivera Florez,Liberal Colombiano,Cámara de Representantes,Putumayo
+6776,1819.0,Felix Jose Valera Ibañez,Partido Verde,Senado de la República,Cesar
+6776,100.0,Gabriel Ignacio Zapata Correa,Conservador Colombiano,Senado de la República,Antioquia
+6776,1133.0,Jack Housni Jaller,Liberal Colombiano,Cámara de Representantes,San Andrés y Providencia
+6734,10.0,Luis Carlos Avellaneda Tarazona,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+6734,92.0,Luis Fernando Velasco Cháves,Liberal Colombiano,Senado de la República,Cauca
+6734,48.0,Jorge Eliécer Guevara,PDA - Polo Democrático Alternativo,Senado de la República,Distrito Capital
+6734,29.0,Parmenio Cuellar Bastidas,PDA - Polo Democrático Alternativo,Senado de la República,Nariño
+6734,1714.0,Camilo Romero,PDA - Polo Democrático Alternativo,Senado de la República,Nariño
+6734,38.0,Juan Manuel Galan Pachon,Liberal Colombiano,Senado de la República,Distrito Capital
+6734,11.0,Jorge Eliecer Ballesteros Bernier,Partido de la U - Partido de la Unión por la Gente,Senado de la República,La Guajira
+6734,288.0,Carlos Alberto Baena Lopez,MIRA,Senado de la República,Distrito Capital
+6733,1705.0,Mauricio Ernesto Ospina Gomez,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+6733,819.0,Alba Luz Pinilla Pedraza,PDA - Polo Democrático Alternativo,Cámara de Representantes,Distrito Capital
+6733,1260.0,Gloria Inés Ramirez Rios,PDA - Polo Democrático Alternativo,Senado de la República,Distrito Capital
+6733,2533.0,Wilson Neber Arias Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+6733,2819.0,Hernando Hernandez Tapasco,PDA - Polo Democrático Alternativo,Cámara de Representantes,
+6733,2395.0,Iván Cepeda Castro,PDA - Polo Democrático Alternativo,Senado de la República,Distrito Capital
+6733,77.0,Jorge Enrique Robledo Castillo,PDA - Polo Democrático Alternativo,Senado de la República,Caldas
+6733,192.0,Carlos Germán Navas Talero,PDA - Polo Democrático Alternativo,Cámara de Representantes,Distrito Capital
+6733,29.0,Parmenio Cuellar Bastidas,PDA - Polo Democrático Alternativo,Senado de la República,Nariño
+6733,1714.0,Camilo Romero,PDA - Polo Democrático Alternativo,Senado de la República,Nariño
+3862,,,,,
+3862,2489.0,Jesus Enrique Piñacue Achicue,ASI - Alianza Social Independiente,Senado de la República,Valle del Cauca
+7827,7792.0,Carlos Fernando Galan Pachon,Cambio Radical,Senado de la República,Distrito Capital
+3313,973.0,German Vargas Lleras,Colombia Siempre,Senado de la República,Distrito Capital
+16095,14659.0,Ariel Fernando Avila Martínez,Alianza por Colombia,Senado de la República,Distrito Capital
+16095,14787.0,John Edikson Amaya Rodríguez,Alianza por Colombia,Senado de la República,Boyacá
+15464,14645.0,Pedro Hernando Flórez Porras,Pacto Histórico Coalición,Senado de la República,Atlántico
+15464,14907.0,Miguel Ángel Grisales Suárez,Pacto Histórico Coalición,Cámara de Representantes,Quindío
+14810,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+14810,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Senado de la República,La Guajira
+14810,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+14810,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+14810,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+14810,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+14810,14713.0,Daniel Carvalho Mejía,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Antioquia
+14810,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+14810,14737.0,Wilder Iberson Escobar Ortiz,Gente en movimiento,Cámara de Representantes,Caldas
+13692,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13692,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Senado de la República,La Guajira
+13692,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13692,14658.0,Humberto de la Calle Lombana,Verde-Oxígeno,Senado de la República,Distrito Capital
+13692,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13692,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+13692,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+13692,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13692,14713.0,Daniel Carvalho Mejía,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Antioquia
+13692,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+13692,14725.0,Aida Marina Quilcué Vivas,MAIS - Movimiento Alternativo Indígena y Social,Senado de la República,Cauca
+12488,2305.0,Angélica Lozano Correa,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12488,2734.0,Iván Leonidas Name Vásquez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12488,14658.0,Humberto de la Calle Lombana,Verde-Oxígeno,Senado de la República,Distrito Capital
+12488,14661.0,Ana Carolina Espitia Jerez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Boyacá
+12488,14657.0,Jonathan Ferney Jota Pe Pulido Hernández,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+12488,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+12488,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+12488,14702.0,Jaime Raúl Salamanca Torres,Alianza Verde,Cámara de Representantes,Boyacá
+12488,14703.0,Juan Diego Muñoz Cabrera,Alianza Verde,Cámara de Representantes,Meta
+12488,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+12488,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+12488,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12488,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+12488,14713.0,Daniel Carvalho Mejía,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Antioquia
+12488,14715.0,Santiago Osorio Marín,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Caldas
+12488,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+12488,7696.0,Olga Lucía Velásquez Nieto,Alianza Verde,Cámara de Representantes,Distrito Capital
+12208,77.0,Jorge Enrique Robledo Castillo,Dignidad,Senado de la República,
+12208,92.0,Luis Fernando Velasco Cháves,Liberal Colombiano,Senado de la República,
+12208,2097.0,Temístocles Ortega Narváez,Cambio Radical,Senado de la República,
+12208,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+12208,2447.0,Maritza Martínez Aristizábal,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+12208,12705.0,Wilmer Leal Pérez,Alianza Verde,Cámara de Representantes,Boyacá
+12208,13164.0,Juanita María Goebertus Estrada,Alianza Verde,Cámara de Representantes,Distrito Capital
+12208,13285.0,Jorge Alberto Gómez Gallego,Dignidad,Cámara de Representantes,Antioquia
+12208,13589.0,Mauricio Andrés Toro Orjuela,Alianza Verde,Cámara de Representantes,Distrito Capital
+12208,13594.0,José Daniel López Jiménez,Cambio Radical,Cámara de Representantes,Distrito Capital
+12208,13943.0,Luis Iván Marulanda Gómez,Alianza Verde,Senado de la República,
+12208,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+12208,13948.0,Catalina Ortiz Lalinde,Alianza Verde,Cámara de Representantes,Valle del Cauca
+11468,40.0,Guillermo García Realpe,Liberal Colombiano,Senado de la República,
+11468,48.0,Jorge Eliécer Guevara,Alianza Verde,Senado de la República,
+11468,1804.0,Jorge Eduardo Londoño Ulloa,Alianza Verde,Senado de la República,
+11468,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,
+11468,12324.0,César Augusto Ortiz Zorro,Alianza Verde,Cámara de Representantes,Casanare
+11468,12452.0,José Luis Correa López,Liberal Colombiano,Cámara de Representantes,Caldas
+11468,13150.0,León Fredy Muñoz Lopera,Alianza Verde,Cámara de Representantes,Antioquia
+11468,13164.0,Juanita María Goebertus Estrada,Alianza Verde,Cámara de Representantes,Distrito Capital
+11468,13946.0,Antonio Eresmid Sanguino Páez,Alianza Verde,Senado de la República,
+9714,5479.0,John Jairo Cárdenas Morán,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Cauca
+9714,12538.0,Alejandro Alberto Vega Pérez,Liberal Colombiano,Cámara de Representantes,Meta
+9714,8582.0,Rodrigo Arturo Rojas Lara,Liberal Colombiano,Cámara de Representantes,Boyacá
+9714,14357.0,Juan Fernando Reyes Kuri,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+9714,12395.0,Juan Carlos Reinales Agudelo,Liberal Colombiano,Cámara de Representantes,Risaralda
+9714,9387.0,Flora Perdomo Andrade,Liberal Colombiano,Cámara de Representantes,Huila
+9714,14284.0,Víctor Manuel Ortiz Joya,Liberal Colombiano,Cámara de Representantes,Santander
+9714,12337.0,Elizabeth Jaypang Díaz,Liberal Colombiano,Cámara de Representantes,San Andrés y Providencia
+9714,7677.0,Harry Giovanny González García,Liberal Colombiano,Cámara de Representantes,Caquetá
+9714,160.0,Edgar Alfonso Gómez Román,Liberal Colombiano,Cámara de Representantes,Santander
+9714,7793.0,Hernán Gustavo Estupiñán Calvache,Liberal Colombiano,Cámara de Representantes,Nariño
+9714,12855.0,Juan Diego Echavarría Sánchez,Liberal Colombiano,Cámara de Representantes,Antioquia
+9714,12452.0,José Luis Correa López,Liberal Colombiano,Cámara de Representantes,Caldas
+9714,12996.0,Henry Fernando Correal Herrera,Liberal Colombiano,Cámara de Representantes,Vaupés
+9714,7767.0,Nilton Córdoba Manyoma,Liberal Colombiano,Cámara de Representantes,Chocó
+9714,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+9714,2039.0,Carlos Julio Bonilla Soto,Liberal Colombiano,Cámara de Representantes,Cauca
+9714,8815.0,Alexánder Harley Bermúdez Lasso,Liberal Colombiano,Cámara de Representantes,Guaviare
+9714,14059.0,Fabio Fernando Arroyave Rivas,Liberal Colombiano,Cámara de Representantes,Valle del Cauca
+9667,53.0,Rodrigo Lara Restrepo,Cambio Radical,Senado de la República,
+9667,2600.0,José David Name Cardozo,Partido de la U - Partido de la Unión por la Gente,Senado de la República,
+8531,2305.0,Angélica Lozano Correa,Alianza Verde,Senado de la República,Distrito Capital
+8531,38.0,Juan Manuel Galan Pachon,Liberal Colombiano,Senado de la República,Distrito Capital
+8531,183.0,Rosmery Martinez Rosales,Cambio Radical,Senado de la República,Tolima
+8531,9482.0,Ivan Duque Márquez,Centro Democrático,Senado de la República,Antioquia
+8531,7792.0,Carlos Fernando Galan Pachon,Cambio Radical,Senado de la República,Distrito Capital
+2401,973.0,German Vargas Lleras,Colombia Siempre,Senado de la República,Distrito Capital
+2319,842.0,Ciro Ramirez Pinzon,Conservador Colombiano,Senado de la República,Boyacá
+2019,22.0,Elsa Gladys Cifuentes Aranzazu,Cambio Radical,Senado de la República,Risaralda
+5214,973.0,German Vargas Lleras,Liberal Colombiano,Senado de la República,Distrito Capital
+4997,973.0,German Vargas Lleras,Liberal Colombiano,Senado de la República,Distrito Capital
+4185,973.0,German Vargas Lleras,Liberal Colombiano,Senado de la República,Distrito Capital
+15989,14861.0,Yamit Noé Hurtado Neira,Alianza Verde,Cámara de Representantes,Boyacá
+15568,14863.0,Juan Manuel Londoño Jaramillo,Conservador Colombiano,Cámara de Representantes,Caldas
+15095,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15095,14331.0,Jairo Reinaldo Cala Suárez,Comunes,Cámara de Representantes,Santander
+15095,14649.0,Yuly Esmeralda Hernández Silva,Pacto Histórico Coalición,Senado de la República,Distrito Capital
+15095,14616.0,Alvaro Leonel Rueda Caballero,Liberal Colombiano,Cámara de Representantes,Santander
+15095,14624.0,María del Mar Pizarro García,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+15095,14627.0,Pedro José Suárez Vacca,Pacto Histórico Coalición,Cámara de Representantes,Boyacá
+15095,14635.0,Jorge Andrés Cancimance López,Pacto Histórico Coalición,Cámara de Representantes,Putumayo
+15095,14675.0,Juan Daniel Peñuela Calvache,Conservador Colombiano,Cámara de Representantes,Nariño
+15095,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+15095,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+15095,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+15095,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+15095,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+15095,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+15095,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+15095,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+15095,12605.0,Yenica Sugein Acosta Infante,Centro Democrático,Cámara de Representantes,Amazonas
+15095,14622.0,Gabriel Becerra Yañez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13915,1522.0,Germán Alcides Blanco Álvarez,Conservador Colombiano,Senado de la República,Antioquia
+13915,2502.0,Alfredo Rafael Deluque Zuleta,Partido de la U - Partido de la Unión por la Gente,Senado de la República,La Guajira
+13915,7679.0,Alirio Uribe Muñoz,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13915,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+13915,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+13915,9535.0,Paloma Susana Valencia Laserna,Centro Democrático,Senado de la República,Cauca
+13915,13342.0,Julio César Triana Quintero,Cambio Radical,Cámara de Representantes,Huila
+13915,13476.0,Juan Fernando Espinal Ramírez,Centro Democrático,Cámara de Representantes,Antioquia
+13915,14331.0,Jairo Reinaldo Cala Suárez,Comunes,Cámara de Representantes,Santander
+13915,14658.0,Humberto de la Calle Lombana,Verde-Oxígeno,Senado de la República,Distrito Capital
+13915,14607.0,José Octavio Cardona León,Liberal Colombiano,Cámara de Representantes,Caldas
+13915,14613.0,Piedad Correal Rubiano,Liberal Colombiano,Cámara de Representantes,Quindío
+13915,14624.0,María del Mar Pizarro García,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13915,14627.0,Pedro José Suárez Vacca,Pacto Histórico Coalición,Cámara de Representantes,Boyacá
+13915,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13915,14675.0,Juan Daniel Peñuela Calvache,Conservador Colombiano,Cámara de Representantes,Nariño
+13915,14679.0,Delcy Esperanza Isaza Buenaventura,Conservador Colombiano,Cámara de Representantes,Tolima
+13915,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+13915,14704.0,Cristian Danilo Avendaño Fino,Alianza Verde,Cámara de Representantes,Santander
+13915,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+13915,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13915,14712.0,Carolina Giraldo Botero,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13915,14714.0,Jennifer Dalley Pedraza Sandoval,Alianza Verde Centro Esperanza Coalición,Cámara de Representantes,Distrito Capital
+13915,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+9689,12915.0,Carlos Andrés Trujillo González,Conservador Colombiano,Senado de la República,
+6737,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+6737,288.0,Carlos Alberto Baena Lopez,MIRA,Senado de la República,Distrito Capital
+6298,288.0,Carlos Alberto Baena Lopez,MIRA,Senado de la República,Distrito Capital
+6298,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+6023,2459.0,Antonio José Correa Jiménez,PIN - Partido de Integración Nacional,Senado de la República,Atlántico
+6241,928.0,Venus Albeiro Silva Gomez,MPC - Movimiento Participación Comunitaria,Cámara de Representantes,Distrito Capital
+536,98.0,Manuel Antonio Virgüez Piraquive,MIRA,Senado de la República,Distrito Capital
+536,60.0,Alexandra Moreno Piraquive,MIRA,Senado de la República,Distrito Capital
+536,10.0,Luis Carlos Avellaneda Tarazona,PDA - Polo Democrático Alternativo,Senado de la República,Valle del Cauca
+536,142.0,Gloria Stella Diaz Ortiz,MIRA,Cámara de Representantes,Distrito Capital
+5230,471.0,Carlos Eduardo Corsi Otalora,Movimiento Político Laicos por Colombia,Senado de la República,Distrito Capital
+13224,1522.0,Germán Alcides Blanco Álvarez,Conservador Colombiano,Senado de la República,Antioquia
+13224,7694.0,Juan Carlos Lozada Vargas,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+13224,8644.0,Jorge Eliécer Tamayo Marulanda,Partido de la U - Partido de la Unión por la Gente,Cámara de Representantes,Valle del Cauca
+13224,12287.0,Andrés David Calle Aguas,Liberal Colombiano,Cámara de Representantes,Córdoba
+13224,12827.0,Luis Alberto Albán Urbano,Comunes,Cámara de Representantes,Valle del Cauca
+13224,13638.0,Juan Carlos Wills Ospina,Partido Conservador Partido de la U Coalición,Cámara de Representantes,Distrito Capital
+13224,14658.0,Humberto de la Calle Lombana,Verde-Oxígeno,Senado de la República,Distrito Capital
+13224,14613.0,Piedad Correal Rubiano,Liberal Colombiano,Cámara de Representantes,Quindío
+13224,14625.0,Heráclito Landinez Suárez,Pacto Histórico Coalición,Cámara de Representantes,Distrito Capital
+13224,14657.0,Jonathan Ferney Jota Pe Pulido Hernández,Alianza Verde Centro Esperanza Coalición,Senado de la República,Santander
+13224,14659.0,Ariel Fernando Avila Martínez,Alianza Verde Centro Esperanza Coalición,Senado de la República,Distrito Capital
+13224,14689.0,Adriana Carolina Arbelaez Giraldo,Cambio Radical,Cámara de Representantes,Distrito Capital
+13224,14692.0,Hernando González,Cambio Radical,Cámara de Representantes,Valle del Cauca
+13224,14700.0,Catherine Juvinao Clavijo,Alianza Verde,Cámara de Representantes,Distrito Capital
+13224,14705.0,Duvalier Sánchez Arango,Alianza Verde,Cámara de Representantes,Valle del Cauca
+13224,14707.0,Marelen Castillo Torres,Liga de gobernantes anticorrupción,Cámara de Representantes,Santander
+13224,14710.0,Alejandro García Ríos,Alternativos Verde y Polo Coalición,Cámara de Representantes,Risaralda
+13224,14738.0,Juan Sebastián Gómez González,Juntos por Caldas,Cámara de Representantes,Caldas
+13224,14763.0,Luz María Múnera Medina,Pacto Histórico Coalición,Cámara de Representantes,Antioquia
+10050,7767.0,Nilton Córdoba Manyoma,Liberal Colombiano,Cámara de Representantes,Chocó
+10050,1615.0,Diela Liliana Benavides Solarte,Conservador Colombiano,Cámara de Representantes,Nariño
+10050,1522.0,Germán Alcides Blanco Álvarez,Conservador Colombiano,Cámara de Representantes,Antioquia
+10050,12460.0,Félix Alejandro Chica Correa,Conservador Colombiano,Cámara de Representantes,Caldas
+10050,482.0,Alfredo Ape Cuello Baute,Conservador Colombiano,Cámara de Representantes,Cesar
+10050,7470.0,Nicolás Albeiro Echeverry Alvarán,Conservador Colombiano,Cámara de Representantes,Antioquia
+10050,8188.0,José Elver Choco Hernández Casas,Conservador Colombiano,Cámara de Representantes,Tolima
+10050,656.0,Buenaventura León León,Conservador Colombiano,Cámara de Representantes,Cundinamarca
+10050,8150.0,Jaime Felipe Lozada Polanco,Conservador Colombiano,Cámara de Representantes,Huila
+10050,12443.0,Adriana Magali Matiz Vargas,Conservador Colombiano,Cámara de Representantes,Tolima
+10050,1527.0,Nidia Marcela Osorio Salgado,Conservador Colombiano,Cámara de Representantes,Antioquia
+10050,8180.0,Juan Carlos Rivera Peña,Conservador Colombiano,Cámara de Representantes,Risaralda
+10050,873.0,Ciro Antonio Rodríguez Pinzón,Conservador Colombiano,Cámara de Representantes,Norte de Santander
+10050,12833.0,María Cristina Tina Soto De Gómez,Conservador Colombiano,Cámara de Representantes,La Guajira
+10050,13638.0,Juan Carlos Wills Ospina,Conservador Colombiano,Cámara de Representantes,Distrito Capital
+9758,1532.0,Armando Antonio Zabaraín Darce,Conservador Colombiano,Cámara de Representantes,Atlántico
+9758,13638.0,Juan Carlos Wills Ospina,Conservador Colombiano,Cámara de Representantes,Distrito Capital
+9758,482.0,Alfredo Ape Cuello Baute,Conservador Colombiano,Cámara de Representantes,Cesar
+9758,656.0,Buenaventura León León,Conservador Colombiano,Cámara de Representantes,Cundinamarca
+5175,304.0,Amilkar David Acosta Medina,Liberal Colombiano,Senado de la República,La Guajira
+5175,329.0,Alfonso Angarita Baracaldo,Liberal Colombiano,Senado de la República,Distrito Capital
+5175,446.0,Jimmy Chamorro Cruz,Compromiso Cívico Cristiano - C4,Senado de la República,Valle del Cauca
+5175,28.0,Juan Fernando Cristo Bustos,Liberal Colombiano,Senado de la República,Norte de Santander
+5175,679.0,Dieb Nicolas Maloof Cuse,Liberal Colombiano,Senado de la República,Atlántico
+5175,766.0,Rafael Antonio Orduz Medina,Asi-Mci-Ca Mockus,Senado de la República,Distrito Capital
+5175,871.0,Cecilia Rodriguez Gonzalezrubio,Verde-Oxígeno,Senado de la República,Distrito Capital
+4885,304.0,Amilkar David Acosta Medina,Liberal Colombiano,Senado de la República,La Guajira
+4885,329.0,Alfonso Angarita Baracaldo,Liberal Colombiano,Senado de la República,Distrito Capital
+4885,414.0,Francisco Canossa Guerrero,Liberal Colombiano,Cámara de Representantes,Distrito Capital
+4885,446.0,Jimmy Chamorro Cruz,Compromiso Cívico Cristiano - C4,Senado de la República,Valle del Cauca
+4885,640.0,Manuel Guillermo Infante Braiman,Liberal Colombiano,Senado de la República,Cundinamarca
+4885,766.0,Rafael Antonio Orduz Medina,Asi-Mci-Ca Mockus,Senado de la República,Distrito Capital
+4885,806.0,Edgar Jose Perea Arias,Liberal Colombiano,Senado de la República,Atlántico
+4885,821.0,Alfonso Pinto Afanador,Liberal Colombiano,Cámara de Representantes,Santander
+4885,896.0,Jose Dario Salazar Cruz,Conservador Colombiano,Cámara de Representantes,Cauca
+4885,566.0,Jorge Eduardo Gechem Turbay,Liberal Colombiano,Senado de la República,Huila
+4564,590.0,Consuelo Gonzalez De Perdomo,Liberal Colombiano,Cámara de Representantes,Huila
+4461,590.0,Consuelo Gonzalez De Perdomo,Liberal Colombiano,Cámara de Representantes,Huila
+3985,304.0,Amilkar David Acosta Medina,Liberal Colombiano,Senado de la República,La Guajira
+3985,446.0,Jimmy Chamorro Cruz,Compromiso Cívico Cristiano - C4,Senado de la República,Valle del Cauca
+3985,25.0,Piedad Esneda Cordoba Ruiz,Liberal Colombiano,Senado de la República,Antioquia
+3985,806.0,Edgar Jose Perea Arias,Liberal Colombiano,Senado de la República,Atlántico
+3985,808.0,Luis Eladio Perez Bonilla,Liberal Colombiano,Senado de la República,Nariño
+3985,810.0,Roberto Antonio Perez Santos,Convergencia Popular Cívica (e),Senado de la República,Sucre
+3985,,,,,
+3985,876.0,Francisco Rojas Birry,ASI - Alianza Social Independiente,Senado de la República,Distrito Capital
+3985,2489.0,Jesus Enrique Piñacue Achicue,ASI - Alianza Social Independiente,Senado de la República,Valle del Cauca

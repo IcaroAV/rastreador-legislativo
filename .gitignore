@@ -4,3 +4,4 @@
 # Archivos temporales que genera Python
 __pycache__/
 *.pyc
+muestra.*
