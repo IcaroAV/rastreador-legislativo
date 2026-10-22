@@ -1,0 +1,36 @@
+name: Radar legislativo
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # todos los días a las 11:00 UTC = 6:00 a. m. en Colombia
+  workflow_dispatch:        # permite ejecutarlo a mano desde GitHub
+
+permissions:
+  contents: write           # necesario para guardar los datos nuevos en el repositorio
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar librerías
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar el scraper
+        run: python scraper.py
+
+      - name: Guardar los datos actualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Actualización automática $(date -u +%F)"
+          git push

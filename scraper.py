@@ -13,6 +13,7 @@ import json
 import math
 import time
 import unicodedata
+from datetime import date
 from pathlib import Path
 from urllib import robotparser
 
@@ -34,9 +35,10 @@ PALABRAS_CLAVE = [
     "control social", "veedurías",
 ]
 
-FILAS_POR_PAGINA = 50   # resultados por página (menos solicitudes al servidor)
+FILAS_POR_PAGINA = 25   # resultados por página (páginas más livianas = respuestas más rápidas)
 PAUSA_SEGUNDOS = 2      # pausa entre solicitudes, por cortesía con el sitio
 REINTENTOS = 3          # intentos si una solicitud falla
+TIEMPO_ESPERA = 90      # segundos máximos de espera por respuesta del servidor
 
 CARPETA_DATOS = Path("data")
 
@@ -70,7 +72,7 @@ def permitido_por_robots(url):
 def descargar(url, params):
     for intento in range(1, REINTENTOS + 1):
         try:
-            r = sesion.get(url, params=params, timeout=30)
+            r = sesion.get(url, params=params, timeout=TIEMPO_ESPERA)
             r.raise_for_status()          # lanza error si el código no es 200
             time.sleep(PAUSA_SEGUNDOS)
             return r.text
@@ -107,6 +109,8 @@ def sin_tildes(texto):
     resultados cuando la palabra lleva tilde, pero sin tilde sí los encuentra."""
     return "".join(c for c in unicodedata.normalize("NFD", texto)
                    if unicodedata.category(c) != "Mn")
+
+
 def buscar(palabra):
     proyectos = []
     pagina, total_paginas = 1, 1
@@ -180,9 +184,18 @@ def main():
     encontrados = {}       # id -> proyecto (un diccionario evita duplicados)
     palabras_por_id = {}   # id -> palabras clave con las que apareció
 
+    fallidas = []          # palabras que no se pudieron consultar
+
     for palabra in PALABRAS_CLAVE:
         print(f"Buscando: '{palabra}'")
-        for p in buscar(palabra):
+        try:
+            resultados = buscar(palabra)
+        except RuntimeError as e:
+            # Si una palabra falla tras los reintentos, se anota y se sigue con las demás
+            print(f"   ! Se omite '{palabra}': {e}")
+            fallidas.append(palabra)
+            continue
+        for p in resultados:
             encontrados[p["id"]] = p
             palabras_por_id.setdefault(p["id"], []).append(palabra)
 
@@ -196,8 +209,16 @@ def main():
     proyectos.to_csv(CARPETA_DATOS / "proyectos.csv", index=False, encoding="utf-8")
     autores.to_csv(CARPETA_DATOS / "autores.csv", index=False, encoding="utf-8")
 
+    # Foto fechada del día: el historial que usará la detección de cambios
+    carpeta_fotos = CARPETA_DATOS / "historial"
+    carpeta_fotos.mkdir(exist_ok=True)
+    proyectos.to_csv(carpeta_fotos / f"proyectos_{date.today().isoformat()}.csv",
+                     index=False, encoding="utf-8")
+
     print(f"\nListo: {len(proyectos)} proyectos únicos y {len(autores)} registros de autoría.")
     print(f"Guardados en {CARPETA_DATOS}/proyectos.csv y {CARPETA_DATOS}/autores.csv")
+    if fallidas:
+        print(f"Atención: no se pudieron consultar {len(fallidas)} palabras: {', '.join(fallidas)}")
 
 
 if __name__ == "__main__":
