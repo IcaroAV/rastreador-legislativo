@@ -1,0 +1,6 @@
+# Entorno virtual (se recrea con requirements.txt)
+.venv/
+
+# Archivos temporales que genera Python
+__pycache__/
+*.pyc
